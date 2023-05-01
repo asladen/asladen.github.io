@@ -1,0 +1,857 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title></title>
+    <link>https://asladen.github.io/</link>
+    <description>Recent content on </description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="https://asladen.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Example Talk</title>
+      <link>https://asladen.github.io/talk/example/</link>
+      <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
+      
+      <guid>https://asladen.github.io/talk/example/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Slides can be added in a few ways:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Create&lt;/strong&gt; slides using Academic&amp;rsquo;s &lt;a href=&#34;https://sourcethemes.com/academic/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34;&gt;&lt;em&gt;Slides&lt;/em&gt;&lt;/a&gt; feature and link using &lt;code&gt;slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Upload&lt;/strong&gt; an existing slide deck to &lt;code&gt;static/&lt;/code&gt; and link using &lt;code&gt;url_slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Embed&lt;/strong&gt; your slides (e.g. Google Slides) or presentation video on this page using &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;shortcodes&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Further talk details can easily be added to this page using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Seafloor fiber optic sensing</title>
+      <link>https://asladen.github.io/project/fiber/</link>
+      <pubDate>Sat, 27 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://asladen.github.io/project/fiber/</guid>
+      <description>
+
+&lt;p&gt;In order to address the critical lack of data on the dynamics and physical evolution of the seafloor (coastal erosion, tectonic or volcanic motions, gravitational instabilities, etc.), we are exploring the potential of &lt;a href=&#34;https://en.wikipedia.org/wiki/Fiber_optic_sensor&#34; target=&#34;_blank&#34;&gt;Distributed Fiber-Optic Sensing&lt;/a&gt; (DFOS) technology to complement or improve existing seafloor monitoring techniques.&lt;/p&gt;
+
+&lt;p&gt;DFOS is a promising technique allowing to quantify deformation, temperature and/or acoustic signals typically every meter of a standard optic fiber cable and over distances of several tenths of kilometers. The physical principle is not new but decades of improvements in the price and performance of the components make it a potential affordable alternative to standard seafloor instrumentation. Compared to traditional electro-mechanical sensors, optical fibers have many advantages: they are passive, lightweight, small, immune to electromagnetic interferences and tolerant to harsh environments (temperature and pressure). Data acquisition and transfer is also fast and efficient because it relies on a large bandwidth and offers opportunities for multiplexing. DFOS has become a standard monitoring approach for civil engineering or oil exploration, but its potential for seafloor applications remains largely unexplored.&lt;/p&gt;
+
+&lt;p&gt;There are two main strategies to harness the potential of DFOS, either through the deployment of a dedicated cable, or the use of cables in place:&lt;/p&gt;
+
+&lt;h3 id=&#34;existing-fiber-optic-cables&#34;&gt;Existing fiber optic cables&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&#34;submarine_cable_map.png&#34; alt=&#34;Seafloor fiber optic cable map&#34; title=&#34;Seafloor fiber optic cable map. Credit:wikipedia&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Thanks to the telecom industry, the seafloors are already largely covered with fiber optic cables. The challenge here is to define the potential of these large infrastructures to provide meaningful geophysical signals, as they are not designed for measurements: instead, telecommunication cables are optimized such that the optical fibers at the core of the cable are isolated from external forces.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Sladen, A., Rivet, D., Ampuero, J., De Barros, L., Hello, Y., Calbris, G., &amp;amp; Lamare, P. (2019, June 7). Distributed sensing of earthquakes and ocean-solid Earth interactions on seafloor telecom cables. &lt;em&gt;EarthArXiv&lt;/em&gt;, &lt;a href=&#34;https://doi.org/10.31223/osf.io/ekrfy&#34; target=&#34;_blank&#34;&gt;https://doi.org/10.31223/osf.io/ekrfy&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;dedicated-fiber-optic-cables&#34;&gt;Dedicated fiber optic cables&lt;/h3&gt;
+
+&lt;p&gt;In many cases, places of geophysical interest might not be covered with optical fiber cables. The thick armored cables used by the telecom industry are too expensive for academic applications. Instead, we are developing a lightweight plow to trench thin fiber optic cables inside the sediments of the seafloor. Trenching the cable allows to improve the coupling and protect the thin cable from fishing activities. Our plow system was first tested and validated in 2018 offshore the Nice airport, France. The first deployment of fiber optic cables is scheduled in the same area in 2019. The area offshore the Nice airport is both a convenient local test site but also an area of great scientific and societal interest: the seafloor shows many signs of fluid seepage and the steep slopes might be prone to destabilization; in 1979, a submarine landslide triggered a &lt;a href=&#34;https://en.wikipedia.org/wiki/1979_Nice_tsunami&#34; target=&#34;_blank&#34;&gt;local tsunami&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Slides</title>
+      <link>https://asladen.github.io/slides/example/</link>
+      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://asladen.github.io/slides/example/</guid>
+      <description>
+
+&lt;h3 id=&#34;welcome-to-slides&#34;&gt;Welcome to Slides&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://sourcethemes.com/academic/&#34; target=&#34;_blank&#34;&gt;Academic&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;features&#34;&gt;Features&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Efficiently write slides in Markdown&lt;/li&gt;
+&lt;li&gt;3-in-1: Create, Present, and Publish your slides&lt;/li&gt;
+&lt;li&gt;Supports speaker notes&lt;/li&gt;
+&lt;li&gt;Mobile friendly slides&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;h4 id=&#34;image&#34;&gt;Image&lt;/h4&gt;
+
+&lt;p&gt;&lt;img src=&#34;./test.jpg&#34; alt=&#34;alt text&#34; title=&#34;Logo Title Text 1&#34; /&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;controls&#34;&gt;Controls&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Next: &lt;code&gt;Right Arrow&lt;/code&gt; or &lt;code&gt;Space&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Previous: &lt;code&gt;Left Arrow&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Start: &lt;code&gt;Home&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Finish: &lt;code&gt;End&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Overview: &lt;code&gt;Esc&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Speaker notes: &lt;code&gt;S&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Fullscreen: &lt;code&gt;F&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Zoom: &lt;code&gt;Alt + Click&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/hakimel/reveal.js#pdf-export&#34; target=&#34;_blank&#34;&gt;PDF Export&lt;/a&gt;: &lt;code&gt;E&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;code-highlighting&#34;&gt;Code Highlighting&lt;/h2&gt;
+
+&lt;p&gt;Inline code: &lt;code&gt;variable&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;Code block:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;porridge = &amp;quot;blueberry&amp;quot;
+if porridge == &amp;quot;blueberry&amp;quot;:
+    print(&amp;quot;Eating...&amp;quot;)
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;math&#34;&gt;Math&lt;/h2&gt;
+
+&lt;p&gt;In-line math: $x + y = z$&lt;/p&gt;
+
+&lt;p&gt;Block math:&lt;/p&gt;
+
+&lt;p&gt;$$
+f\left( x \right) = \;\frac{{2\left( {x + 4} \right)\left( {x - 4} \right)}}{{\left( {x + 4} \right)\left( {x + 1} \right)}}
+$$&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;fragments&#34;&gt;Fragments&lt;/h2&gt;
+
+&lt;p&gt;Make content appear incrementally&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;{{% fragment %}} One {{% /fragment %}}
+{{% fragment %}} **Two** {{% /fragment %}}
+{{% fragment %}} Three {{% /fragment %}}
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Press &lt;code&gt;Space&lt;/code&gt; to play!&lt;/p&gt;
+
+&lt;p&gt;&lt;span class=&#34;fragment &#34; &gt;
+   One
+&lt;/span&gt;
+&lt;span class=&#34;fragment &#34; &gt;
+   &lt;strong&gt;Two&lt;/strong&gt;
+&lt;/span&gt;
+&lt;span class=&#34;fragment &#34; &gt;
+   Three
+&lt;/span&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;A fragment can accept two optional parameters:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;class&lt;/code&gt;: use a custom style (requires definition in custom CSS)&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;weight&lt;/code&gt;: sets the order in which a fragment appears&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;speaker-notes&#34;&gt;Speaker Notes&lt;/h2&gt;
+
+&lt;p&gt;Add speaker notes to your presentation&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-markdown&#34;&gt;{{% speaker_note %}}
+- Only the speaker can read these notes
+- Press `S` key to view
+{{% /speaker_note %}}
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Press the &lt;code&gt;S&lt;/code&gt; key to view the speaker notes!&lt;/p&gt;
+
+&lt;aside class=&#34;notes&#34;&gt;
+  &lt;ul&gt;
+&lt;li&gt;Only the speaker can read these notes&lt;/li&gt;
+&lt;li&gt;Press &lt;code&gt;S&lt;/code&gt; key to view&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/aside&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;themes&#34;&gt;Themes&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;black: Black background, white text, blue links (default)&lt;/li&gt;
+&lt;li&gt;white: White background, black text, blue links&lt;/li&gt;
+&lt;li&gt;league: Gray background, white text, blue links&lt;/li&gt;
+&lt;li&gt;beige: Beige background, dark text, brown links&lt;/li&gt;
+&lt;li&gt;sky: Blue background, thin dark text, blue links&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;ul&gt;
+&lt;li&gt;night: Black background, thick white text, orange links&lt;/li&gt;
+&lt;li&gt;serif: Cappuccino background, gray text, brown links&lt;/li&gt;
+&lt;li&gt;simple: White background, black text, blue links&lt;/li&gt;
+&lt;li&gt;solarized: Cream-colored background, dark green text, blue links&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+
+&lt;section data-noprocess data-shortcode-slide
+  
+      
+      data-background-image=&#34;/img/boards.jpg&#34;
+  &gt;
+
+
+&lt;h2 id=&#34;custom-slide&#34;&gt;Custom Slide&lt;/h2&gt;
+
+&lt;p&gt;Customize the slide style and background&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-markdown&#34;&gt;{{&amp;lt; slide background-image=&amp;quot;/img/boards.jpg&amp;quot; &amp;gt;}}
+{{&amp;lt; slide background-color=&amp;quot;#0000FF&amp;quot; &amp;gt;}}
+{{&amp;lt; slide class=&amp;quot;my-style&amp;quot; &amp;gt;}}
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;custom-css-example&#34;&gt;Custom CSS Example&lt;/h2&gt;
+
+&lt;p&gt;Let&amp;rsquo;s make headers navy colored.&lt;/p&gt;
+
+&lt;p&gt;Create &lt;code&gt;assets/css/reveal_custom.css&lt;/code&gt; with:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-css&#34;&gt;.reveal section h1,
+.reveal section h2,
+.reveal section h3 {
+  color: navy;
+}
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;hr /&gt;
+
+&lt;h1 id=&#34;questions&#34;&gt;Questions?&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://discourse.gohugo.io&#34; target=&#34;_blank&#34;&gt;Ask&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://sourcethemes.com/academic/docs/&#34; target=&#34;_blank&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Slides</title>
+      <link>https://asladen.github.io/slides/meust2018/</link>
+      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://asladen.github.io/slides/meust2018/</guid>
+      <description>
+
+&lt;h1 id=&#34;dfos-results-on-meust&#34;&gt;DFOS results on MEUST&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://eartharxiv.org/ekrfy&#34; target=&#34;_blank&#34;&gt;(ref: preprint)&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;features&#34;&gt;Features&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Efficiently write slides in Markdown&lt;/li&gt;
+&lt;li&gt;3-in-1: Create, Present, and Publish your slides&lt;/li&gt;
+&lt;li&gt;Supports speaker notes&lt;/li&gt;
+&lt;li&gt;Mobile friendly slides&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;controls&#34;&gt;Controls&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Next: &lt;code&gt;Right Arrow&lt;/code&gt; or &lt;code&gt;Space&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Previous: &lt;code&gt;Left Arrow&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Start: &lt;code&gt;Home&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Finish: &lt;code&gt;End&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Overview: &lt;code&gt;Esc&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Speaker notes: &lt;code&gt;S&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Fullscreen: &lt;code&gt;F&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Zoom: &lt;code&gt;Alt + Click&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/hakimel/reveal.js#pdf-export&#34; target=&#34;_blank&#34;&gt;PDF Export&lt;/a&gt;: &lt;code&gt;E&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;code-highlighting&#34;&gt;Code Highlighting&lt;/h2&gt;
+
+&lt;p&gt;Inline code: &lt;code&gt;variable&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;Code block:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;porridge = &amp;quot;blueberry&amp;quot;
+if porridge == &amp;quot;blueberry&amp;quot;:
+    print(&amp;quot;Eating...&amp;quot;)
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;math&#34;&gt;Math&lt;/h2&gt;
+
+&lt;p&gt;In-line math: $x + y = z$&lt;/p&gt;
+
+&lt;p&gt;Block math:&lt;/p&gt;
+
+&lt;p&gt;$$
+f\left( x \right) = \;\frac{{2\left( {x + 4} \right)\left( {x - 4} \right)}}{{\left( {x + 4} \right)\left( {x + 1} \right)}}
+$$&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;fragments&#34;&gt;Fragments&lt;/h2&gt;
+
+&lt;p&gt;Make content appear incrementally&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;{{% fragment %}} One {{% /fragment %}}
+{{% fragment %}} **Two** {{% /fragment %}}
+{{% fragment %}} Three {{% /fragment %}}
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Press &lt;code&gt;Space&lt;/code&gt; to play!&lt;/p&gt;
+
+&lt;p&gt;&lt;span class=&#34;fragment &#34; &gt;
+   One
+&lt;/span&gt;
+&lt;span class=&#34;fragment &#34; &gt;
+   &lt;strong&gt;Two&lt;/strong&gt;
+&lt;/span&gt;
+&lt;span class=&#34;fragment &#34; &gt;
+   Three
+&lt;/span&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;A fragment can accept two optional parameters:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;class&lt;/code&gt;: use a custom style (requires definition in custom CSS)&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;weight&lt;/code&gt;: sets the order in which a fragment appears&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;speaker-notes&#34;&gt;Speaker Notes&lt;/h2&gt;
+
+&lt;p&gt;Add speaker notes to your presentation&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-markdown&#34;&gt;{{% speaker_note %}}
+- Only the speaker can read these notes
+- Press `S` key to view
+{{% /speaker_note %}}
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Press the &lt;code&gt;S&lt;/code&gt; key to view the speaker notes!&lt;/p&gt;
+
+&lt;aside class=&#34;notes&#34;&gt;
+  &lt;ul&gt;
+&lt;li&gt;Only the speaker can read these notes&lt;/li&gt;
+&lt;li&gt;Press &lt;code&gt;S&lt;/code&gt; key to view&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/aside&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;themes&#34;&gt;Themes&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;black: Black background, white text, blue links (default)&lt;/li&gt;
+&lt;li&gt;white: White background, black text, blue links&lt;/li&gt;
+&lt;li&gt;league: Gray background, white text, blue links&lt;/li&gt;
+&lt;li&gt;beige: Beige background, dark text, brown links&lt;/li&gt;
+&lt;li&gt;sky: Blue background, thin dark text, blue links&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;ul&gt;
+&lt;li&gt;night: Black background, thick white text, orange links&lt;/li&gt;
+&lt;li&gt;serif: Cappuccino background, gray text, brown links&lt;/li&gt;
+&lt;li&gt;simple: White background, black text, blue links&lt;/li&gt;
+&lt;li&gt;solarized: Cream-colored background, dark green text, blue links&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+
+&lt;section data-noprocess data-shortcode-slide
+  
+      
+      data-background-image=&#34;/img/boards.jpg&#34;
+  &gt;
+
+
+&lt;h2 id=&#34;custom-slide&#34;&gt;Custom Slide&lt;/h2&gt;
+
+&lt;p&gt;Customize the slide style and background&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-markdown&#34;&gt;{{&amp;lt; slide background-image=&amp;quot;/img/boards.jpg&amp;quot; &amp;gt;}}
+{{&amp;lt; slide background-color=&amp;quot;#0000FF&amp;quot; &amp;gt;}}
+{{&amp;lt; slide class=&amp;quot;my-style&amp;quot; &amp;gt;}}
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;custom-css-example&#34;&gt;Custom CSS Example&lt;/h2&gt;
+
+&lt;p&gt;Let&amp;rsquo;s make headers navy colored.&lt;/p&gt;
+
+&lt;p&gt;Create &lt;code&gt;assets/css/reveal_custom.css&lt;/code&gt; with:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-css&#34;&gt;.reveal section h1,
+.reveal section h2,
+.reveal section h3 {
+  color: navy;
+}
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;hr /&gt;
+
+&lt;h1 id=&#34;questions&#34;&gt;Questions?&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://discourse.gohugo.io&#34; target=&#34;_blank&#34;&gt;Ask&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://sourcethemes.com/academic/docs/&#34; target=&#34;_blank&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Accounting for uncertain fault geometry in earthquake source inversions--II: application to the M w 6.2 Amatrice earthquake, central Italy</title>
+      <link>https://asladen.github.io/publication/content/publication/ragon-2019-accounting/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://asladen.github.io/publication/content/publication/ragon-2019-accounting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Distributed sensing of earthquakes and ocean-solid Earth interactions on seafloor telecom cables</title>
+      <link>https://asladen.github.io/publication/content/preprint/sladen-2019-distributed/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://asladen.github.io/publication/content/preprint/sladen-2019-distributed/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Imaging rapid early afterslip of the 2016 Pedernales earthquake, Ecuador</title>
+      <link>https://asladen.github.io/publication/content/publication/tsang-2019-imaging/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://asladen.github.io/publication/content/publication/tsang-2019-imaging/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Unravelling the contribution of early postseismic deformation using sub-daily GNSS positioning</title>
+      <link>https://asladen.github.io/publication/content/publication/twardzik-2019-unravelling/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://asladen.github.io/publication/content/publication/twardzik-2019-unravelling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Outer-rise seismicity</title>
+      <link>https://asladen.github.io/project/outer-rise/</link>
+      <pubDate>Fri, 27 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://asladen.github.io/project/outer-rise/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Accounting for uncertain fault geometry in earthquake source inversions--I: theory and simplified application</title>
+      <link>https://asladen.github.io/publication/content/publication/ragon-2018-accounting/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://asladen.github.io/publication/content/publication/ragon-2018-accounting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Shallow megathrust earthquake ruptures betrayed by their outer-trench aftershocks signature</title>
+      <link>https://asladen.github.io/publication/content/publication/sladen-2018-shallow/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://asladen.github.io/publication/content/publication/sladen-2018-shallow/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Investigating dynamic triggering of seismicity by regional earthquakes: The case of the Corinth Rift (Greece)</title>
+      <link>https://asladen.github.io/publication/content/publication/de-2017-investigating/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://asladen.github.io/publication/content/publication/de-2017-investigating/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Supercycle at the Ecuadorian subduction zone revealed after the 2016 Pedernales earthquake</title>
+      <link>https://asladen.github.io/publication/content/publication/nocquet-2017-supercycle/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://asladen.github.io/publication/content/publication/nocquet-2017-supercycle/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Project E-POST</title>
+      <link>https://asladen.github.io/project/epost/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://asladen.github.io/project/epost/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The earthquake source</title>
+      <link>https://asladen.github.io/project/eq_src/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://asladen.github.io/project/eq_src/</guid>
+      <description>&lt;p&gt;Since the first high quality seismograms and the development of theoretical models in the
+1960s, it is established that earthquakes ruptures are complex (e.g. Archuleta and Frazier,
+1978; Das and Kostrov, 1990). Over the few seconds or minutes of its duration, earthquake
+ruptures can go through various stages of acceleration, arrest, large slip or no slip. Given our
+inability to directly measure what is happening on the fault, remote imagery of fault slip evolution
+on the fault is a key element to understand what controls earthquake ruptures. It is also a
+necessary step towards a finer description of the seismic cycle (how ruptures repeat over time),
+and the prediction of generated ground motions (what causes building destruction and tsunami
+waves).&lt;/p&gt;
+
+&lt;p&gt;Hundreds of studies have investigated this complexity using data, first mostly relying on data
+from the global seismic networks and then, around the 1990s, using satellite based technologies such as
+&lt;a href=&#34;https://www.gsa.europa.eu/european-gnss/what-gnss&#34; target=&#34;_blank&#34;&gt;GNSS&lt;/a&gt;, &lt;a href=&#34;https://en.wikipedia.org/wiki/Interferometric_synthetic-aperture_radar&#34; target=&#34;_blank&#34;&gt;InSAR&lt;/a&gt; or &lt;a href=&#34;http://www.tectonics.caltech.edu/slip_history/spot_coseis/index.html&#34; target=&#34;_blank&#34;&gt;optical imagery&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Despite the continuous development of instrumentation, earthquake ruptures (and by extension any slip episode on a fault) remain challenging to image:
+signals are always recorded at the surface, spatial and/or temporal resolution of data is usually limited,
+data might be biased (e.g. collected one month after the earthquake), our knowledge of the Earth structure is often limited, as well as the physics of the
+processes involved.
+To address these issues, my collaborators and I, have developped different methodological approaches to address a number of limitations:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;incorporate more data, of different types and sensitivies&lt;/strong&gt;. In the case of well instrumented earthquakes, our description of earthquake rupture can be based on teleseismic data, near-field strong motion, tsunami, GPS, radar images and/or optical images (e.g. Bletery et al.,2014),&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;analyze data with probabilistic (Bayesian) algorithms&lt;/strong&gt;. This formalism limits the amount of ad hoc assumptions (e.g. regularisation, imposing a priori information which is not well defined), and allows to estimate uncertainties on our final models (e.g. Simons et al., 2011; Bletery et al., 2016),&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;devise a formalism to acknowledge model (epistemic) uncertainties&lt;/strong&gt;. We show that this type of development leads to more robust images of fault slip history. It is a necessary approach given that our knowledge of the Earth structure will always be, at least to some extent, limited (e.g. Ragon et al., 2018),&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;explicitely account for limitations of the measurements&lt;/strong&gt;. Very often, data are acquired at the wrong time, with limited spatial coverage, or else. By developping strategies to acknowledge these limitations, it is possible to improve the robutness, and sometimes resolution, of the sought-after model (e.g. Bletery et al., 2018; Ragon et al., 2019),&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;move towards more advanced physics (forward problem)&lt;/strong&gt;, when possible and useful. Within the PhD project of &lt;a href=&#34;https://www.researchgate.net/profile/Hector_Perez_Alemany&#34; target=&#34;_blank&#34;&gt;Hector Alemany&lt;/a&gt;, and in collaboration with &lt;a href=&#34;https://www.researchgate.net/profile/Vadim_Monteiller&#34; target=&#34;_blank&#34;&gt;Vadim Monteiller&lt;/a&gt;, earthquake wave simulation in 3D complex media.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>A Bayesian source model for the 2004 great Sumatra-Andaman earthquake</title>
+      <link>https://asladen.github.io/publication/content/publication/bletery-2016-bayesian/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://asladen.github.io/publication/content/publication/bletery-2016-bayesian/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mega-earthquakes rupture flat megathrusts</title>
+      <link>https://asladen.github.io/publication/content/publication/bletery-2016-mega/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://asladen.github.io/publication/content/publication/bletery-2016-mega/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Postseismic relocking of the subduction megathrust following the 2007 Pisco, Peru, earthquake</title>
+      <link>https://asladen.github.io/publication/content/publication/remy-2016-postseismic/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://asladen.github.io/publication/content/publication/remy-2016-postseismic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Detailed quantification of delta subsidence, compaction and interaction with man-made structures: the case of the NCA airport, France</title>
+      <link>https://asladen.github.io/publication/content/publication/cavalie-2015-detailed/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://asladen.github.io/publication/content/publication/cavalie-2015-detailed/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Quantification of tsunami bathymetry effect on finite fault slip inversion</title>
+      <link>https://asladen.github.io/publication/content/publication/bletery-2015-quantification/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://asladen.github.io/publication/content/publication/bletery-2015-quantification/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Traveling ionospheric disturbances propagating ahead of the Tohoku-Oki tsunami: a case study</title>
+      <link>https://asladen.github.io/publication/content/publication/kherani-2015-traveling/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://asladen.github.io/publication/content/publication/kherani-2015-traveling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A detailed source model for the Mw9. 0 Tohoku-Oki earthquake reconciling geodesy, seismology, and tsunami records</title>
+      <link>https://asladen.github.io/publication/content/publication/bletery-2014-detailed/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://asladen.github.io/publication/content/publication/bletery-2014-detailed/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bayesian inversion for finite fault earthquake source models--II: the 2011 great Tohoku-oki, Japan earthquake</title>
+      <link>https://asladen.github.io/publication/content/publication/minson-2014-bayesian/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://asladen.github.io/publication/content/publication/minson-2014-bayesian/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Strike-slip earthquakes can also be detected in the ionosphere</title>
+      <link>https://asladen.github.io/publication/content/publication/astafyeva-2014-strike/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://asladen.github.io/publication/content/publication/astafyeva-2014-strike/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Coseismic and postseismic slip associated with the 2010 Maule Earthquake, Chile: Characterizing the Arauco Peninsula barrier effect</title>
+      <link>https://asladen.github.io/publication/content/publication/lin-2013-coseismic/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://asladen.github.io/publication/content/publication/lin-2013-coseismic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Discriminating the tectonic and non-tectonic contributions in the ionospheric signature of the 2011, Mw7. 1, dip-slip Van earthquake, Eastern Turkey</title>
+      <link>https://asladen.github.io/publication/content/publication/rolland-2013-discriminating/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://asladen.github.io/publication/content/publication/rolland-2013-discriminating/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kinematic fault slip evolution source models of the 2008 M7. 9 Wenchuan earthquake in China from SAR interferometry, GPS and teleseismic analysis and implications for Longmen Shan tectonics</title>
+      <link>https://asladen.github.io/publication/content/publication/fielding-2013-kinematic/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://asladen.github.io/publication/content/publication/fielding-2013-kinematic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>High-resolution backprojection at regional distance: Application to the Haiti M7. 0 earthquake and comparisons with finite source studies</title>
+      <link>https://asladen.github.io/publication/content/publication/meng-2012-high/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://asladen.github.io/publication/content/publication/meng-2012-high/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modélisation numérique du tsunami dans les districts de Banda Aceh et Lhok Nga</title>
+      <link>https://asladen.github.io/publication/content/publication/hebert-2011-modelisation/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://asladen.github.io/publication/content/publication/hebert-2011-modelisation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Superficial simplicity of the 2010 El Mayor--Cucapah earthquake of Baja California in Mexico</title>
+      <link>https://asladen.github.io/publication/content/publication/wei-2011-superficial/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://asladen.github.io/publication/content/publication/wei-2011-superficial/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The 2011 magnitude 9.0 Tohoku-Oki earthquake: Mosaicking the megathrust from seconds to centuries</title>
+      <link>https://asladen.github.io/publication/content/publication/simons-20112011/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://asladen.github.io/publication/content/publication/simons-20112011/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Complex rupture during the 12 January 2010 Haiti earthquake</title>
+      <link>https://asladen.github.io/publication/content/publication/hayes-2010-complex/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://asladen.github.io/publication/content/publication/hayes-2010-complex/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kinematic source analysis of the 2003 Tecomán, México, earthquake (Mw 7.6) using teleseismic body waves</title>
+      <link>https://asladen.github.io/publication/content/publication/gomez-2010-kinematic/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://asladen.github.io/publication/content/publication/gomez-2010-kinematic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Seismic and aseismic slip on the Central Peru megathrust</title>
+      <link>https://asladen.github.io/publication/content/publication/perfettini-2010-seismic/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://asladen.github.io/publication/content/publication/perfettini-2010-seismic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Source model of the 2007 Mw 8.0 Pisco, Peru earthquake: Implications for seismogenic behavior of subduction megathrusts</title>
+      <link>https://asladen.github.io/publication/content/publication/sladen-2010-source/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://asladen.github.io/publication/content/publication/sladen-2010-source/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>2004 Sumatra-Andaman tsunami surveys in the Comoro Islands and Tanzania and regional tsunami hazard from future Sumatra events</title>
+      <link>https://asladen.github.io/publication/content/publication/okal-20092004/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://asladen.github.io/publication/content/publication/okal-20092004/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On the use of satellite altimetry to infer the earthquake rupture characteristics: application to the 2004 Sumatra event</title>
+      <link>https://asladen.github.io/publication/content/publication/sladen-2008-use/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      
+      <guid>https://asladen.github.io/publication/content/publication/sladen-2008-use/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Partial rupture of a locked patch of the Sumatra megathrust during the 2007 earthquake sequence</title>
+      <link>https://asladen.github.io/publication/content/publication/konca-2008-partial/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      
+      <guid>https://asladen.github.io/publication/content/publication/konca-2008-partial/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Coseismic slip and afterslip of the great M w 9.15 Sumatra--Andaman earthquake of 2004</title>
+      <link>https://asladen.github.io/publication/content/publication/chlieh-2007-coseismic/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      
+      <guid>https://asladen.github.io/publication/content/publication/chlieh-2007-coseismic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evaluation of far-field tsunami hazard in French Polynesia based on historical data and numerical simulations</title>
+      <link>https://asladen.github.io/publication/content/publication/sladen-2007-evaluation/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      
+      <guid>https://asladen.github.io/publication/content/publication/sladen-2007-evaluation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>L’aléa tsunami en polynésie française: apports de la simulation numérique</title>
+      <link>https://asladen.github.io/publication/content/publication/sladen-2007-alea/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      
+      <guid>https://asladen.github.io/publication/content/publication/sladen-2007-alea/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Numerical modeling of the great 2004 Indian Ocean tsunami: focus on the Mascarene Islands</title>
+      <link>https://asladen.github.io/publication/content/publication/hebert-2007-numerical/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      
+      <guid>https://asladen.github.io/publication/content/publication/hebert-2007-numerical/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tsunami hazard in French polynesia: Constraints from numerical modelling</title>
+      <link>https://asladen.github.io/publication/content/publication/sladen-2007-tsunami/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      
+      <guid>https://asladen.github.io/publication/content/publication/sladen-2007-tsunami/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>High resolution altimetry reveals new characteristics of the December 2004 Indian Ocean tsunami</title>
+      <link>https://asladen.github.io/publication/content/publication/ablain-2006-high/</link>
+      <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
+      
+      <guid>https://asladen.github.io/publication/content/publication/ablain-2006-high/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>L&#39;aléa tsunami en Polynésie française: synthèse des observations et des mesures</title>
+      <link>https://asladen.github.io/publication/content/publication/schindele-2006-alea/</link>
+      <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
+      
+      <guid>https://asladen.github.io/publication/content/publication/schindele-2006-alea/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rodrigues, Mauritius, and Réunion islands field survey after the December 2004 Indian Ocean tsunami</title>
+      <link>https://asladen.github.io/publication/content/publication/okal-2006-rodrigues/</link>
+      <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
+      
+      <guid>https://asladen.github.io/publication/content/publication/okal-2006-rodrigues/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Comprendre et prévenir les tsunamis-: les apports de la simulation numérique</title>
+      <link>https://asladen.github.io/publication/content/publication/hebert-2005-comprendre/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
+      
+      <guid>https://asladen.github.io/publication/content/publication/hebert-2005-comprendre/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

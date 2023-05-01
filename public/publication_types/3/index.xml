@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>3 on </title>
+    <link>https://asladen.github.io/publication_types/3/</link>
+    <description>Recent content in 3 on </description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="https://asladen.github.io/publication_types/3/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Distributed sensing of earthquakes and ocean-solid Earth interactions on seafloor telecom cables</title>
+      <link>https://asladen.github.io/publication/content/preprint/sladen-2019-distributed/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://asladen.github.io/publication/content/preprint/sladen-2019-distributed/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,20 @@
+
+
+# academic doesnt deal with bibtex file but md. How to convert to md?
+
+# get a bibtex file with the articles to be added to the website
+
+# run the python module command academic to convert the bibtex into proper format
+academic import --bibtex my_publications.bib
+
+# the new md files should now be created
+
+
+#Optional arguments:
+#
+#    --help Help
+#    --featured Flag publications as featured (to appear in Featured Publications widget)
+#    --overwrite Overwrite existing publications
+#    --publication-dir PUBLICATION_DIR Path to your publications directory (defaults to publication)
+#    --normalize Normalize tags by converting them to lowercase and capitalizing the first letter
+

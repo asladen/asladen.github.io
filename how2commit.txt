@@ -1,0 +1,55 @@
+git remote add origin https://github.com/asladen/asladen.github.io.git
+cd ..
+git submodule update --init --recursive: asladen/asladen.github.io.git public
+git --version
+la
+rm .gitignore
+cd public/
+ls
+la
+ls
+cd ..
+ls
+rm -rf public/
+git submodule add -f -b master https://github.com/asladen/asladen.github.io.git public
+ls
+la
+git submodule update --init --recursive
+git init
+git submodule update --init --recursive
+git submodule add -f -b master https://github.com/asladen/asladen.github.io.git public
+git add .
+git commit -m "Initial commit"
+git config asladen.sladen@geoazur.unice.fr commit -m "Initial commit"
+git config asladen.53064124+asladen@users.noreply.github.com 
+git commit -m "Initial commit"
+git config --list use.email=53064124+asladen@users.noreply.github.com use.name=asladen user.name=asladen
+git config use.email "53064124+asladen@users.noreply.github.com"
+git config user.name "asladen"
+git commit -m "Initial commit"
+git push -u origin master
+ls
+hugo
+ls
+cd public/
+ls
+git add .
+git config use.email "53064124+asladen@users.noreply.github.com"
+git config user.name "asladen"
+git add .
+git commit -m "Build website"
+git push origin master
+
+--------------------
+
+hugo
+cd public/
+git add .
+git config use.email "53064124+asladen@users.noreply.github.com"
+git config user.name "asladen"
+git add .
+git commit -m "20190817"
+git push <- username: asladen password/token:  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
+
+(note: token valid until 22 august 2022)
+

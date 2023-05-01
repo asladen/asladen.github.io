@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on </title>
+    <link>https://asladen.github.io/tags/</link>
+    <description>Recent content in Tags on </description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 27 Apr 2019 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="https://asladen.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>fiber</title>
+      <link>https://asladen.github.io/tags/fiber/</link>
+      <pubDate>Sat, 27 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://asladen.github.io/tags/fiber/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>dfos</title>
+      <link>https://asladen.github.io/tags/dfos/</link>
+      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://asladen.github.io/tags/dfos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>seafood</title>
+      <link>https://asladen.github.io/tags/seafood/</link>
+      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://asladen.github.io/tags/seafood/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Source Themes</title>
+      <link>https://asladen.github.io/tags/source-themes/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://asladen.github.io/tags/source-themes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>eq_src cycle</title>
+      <link>https://asladen.github.io/tags/eq_src-cycle/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://asladen.github.io/tags/eq_src-cycle/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>seismicity</title>
+      <link>https://asladen.github.io/tags/seismicity/</link>
+      <pubDate>Fri, 27 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://asladen.github.io/tags/seismicity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>cycle</title>
+      <link>https://asladen.github.io/tags/cycle/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://asladen.github.io/tags/cycle/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>eq_src</title>
+      <link>https://asladen.github.io/tags/eq_src/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://asladen.github.io/tags/eq_src/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

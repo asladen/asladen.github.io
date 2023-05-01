@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Théa Ragon on </title>
+    <link>https://asladen.github.io/authors/thea-ragon/</link>
+    <description>Recent content in Théa Ragon on </description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="https://asladen.github.io/authors/thea-ragon/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Accounting for uncertain fault geometry in earthquake source inversions--II: application to the M w 6.2 Amatrice earthquake, central Italy</title>
+      <link>https://asladen.github.io/publication/content/publication/ragon-2019-accounting/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://asladen.github.io/publication/content/publication/ragon-2019-accounting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Accounting for uncertain fault geometry in earthquake source inversions--I: theory and simplified application</title>
+      <link>https://asladen.github.io/publication/content/publication/ragon-2018-accounting/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://asladen.github.io/publication/content/publication/ragon-2018-accounting/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

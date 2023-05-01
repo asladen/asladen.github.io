@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>eq_src on </title>
+    <link>https://asladen.github.io/tags/eq_src/</link>
+    <description>Recent content in eq_src on </description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="https://asladen.github.io/tags/eq_src/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>The earthquake source</title>
+      <link>https://asladen.github.io/project/eq_src/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://asladen.github.io/project/eq_src/</guid>
+      <description>&lt;p&gt;Since the first high quality seismograms and the development of theoretical models in the
+1960s, it is established that earthquakes ruptures are complex (e.g. Archuleta and Frazier,
+1978; Das and Kostrov, 1990). Over the few seconds or minutes of its duration, earthquake
+ruptures can go through various stages of acceleration, arrest, large slip or no slip. Given our
+inability to directly measure what is happening on the fault, remote imagery of fault slip evolution
+on the fault is a key element to understand what controls earthquake ruptures. It is also a
+necessary step towards a finer description of the seismic cycle (how ruptures repeat over time),
+and the prediction of generated ground motions (what causes building destruction and tsunami
+waves).&lt;/p&gt;
+
+&lt;p&gt;Hundreds of studies have investigated this complexity using data, first mostly relying on data
+from the global seismic networks and then, around the 1990s, using satellite based technologies such as
+&lt;a href=&#34;https://www.gsa.europa.eu/european-gnss/what-gnss&#34; target=&#34;_blank&#34;&gt;GNSS&lt;/a&gt;, &lt;a href=&#34;https://en.wikipedia.org/wiki/Interferometric_synthetic-aperture_radar&#34; target=&#34;_blank&#34;&gt;InSAR&lt;/a&gt; or &lt;a href=&#34;http://www.tectonics.caltech.edu/slip_history/spot_coseis/index.html&#34; target=&#34;_blank&#34;&gt;optical imagery&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Despite the continuous development of instrumentation, earthquake ruptures (and by extension any slip episode on a fault) remain challenging to image:
+signals are always recorded at the surface, spatial and/or temporal resolution of data is usually limited,
+data might be biased (e.g. collected one month after the earthquake), our knowledge of the Earth structure is often limited, as well as the physics of the
+processes involved.
+To address these issues, my collaborators and I, have developped different methodological approaches to address a number of limitations:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;incorporate more data, of different types and sensitivies&lt;/strong&gt;. In the case of well instrumented earthquakes, our description of earthquake rupture can be based on teleseismic data, near-field strong motion, tsunami, GPS, radar images and/or optical images (e.g. Bletery et al.,2014),&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;analyze data with probabilistic (Bayesian) algorithms&lt;/strong&gt;. This formalism limits the amount of ad hoc assumptions (e.g. regularisation, imposing a priori information which is not well defined), and allows to estimate uncertainties on our final models (e.g. Simons et al., 2011; Bletery et al., 2016),&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;devise a formalism to acknowledge model (epistemic) uncertainties&lt;/strong&gt;. We show that this type of development leads to more robust images of fault slip history. It is a necessary approach given that our knowledge of the Earth structure will always be, at least to some extent, limited (e.g. Ragon et al., 2018),&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;explicitely account for limitations of the measurements&lt;/strong&gt;. Very often, data are acquired at the wrong time, with limited spatial coverage, or else. By developping strategies to acknowledge these limitations, it is possible to improve the robutness, and sometimes resolution, of the sought-after model (e.g. Bletery et al., 2018; Ragon et al., 2019),&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;move towards more advanced physics (forward problem)&lt;/strong&gt;, when possible and useful. Within the PhD project of &lt;a href=&#34;https://www.researchgate.net/profile/Hector_Perez_Alemany&#34; target=&#34;_blank&#34;&gt;Hector Alemany&lt;/a&gt;, and in collaboration with &lt;a href=&#34;https://www.researchgate.net/profile/Vadim_Monteiller&#34; target=&#34;_blank&#34;&gt;Vadim Monteiller&lt;/a&gt;, earthquake wave simulation in 3D complex media.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

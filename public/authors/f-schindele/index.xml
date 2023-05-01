@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>F Schindelé on </title>
+    <link>https://asladen.github.io/authors/f-schindele/</link>
+    <description>Recent content in F Schindelé on </description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 01 Jan 2011 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="https://asladen.github.io/authors/f-schindele/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Modélisation numérique du tsunami dans les districts de Banda Aceh et Lhok Nga</title>
+      <link>https://asladen.github.io/publication/content/publication/hebert-2011-modelisation/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://asladen.github.io/publication/content/publication/hebert-2011-modelisation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evaluation of far-field tsunami hazard in French Polynesia based on historical data and numerical simulations</title>
+      <link>https://asladen.github.io/publication/content/publication/sladen-2007-evaluation/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      
+      <guid>https://asladen.github.io/publication/content/publication/sladen-2007-evaluation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Numerical modeling of the great 2004 Indian Ocean tsunami: focus on the Mascarene Islands</title>
+      <link>https://asladen.github.io/publication/content/publication/hebert-2007-numerical/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      
+      <guid>https://asladen.github.io/publication/content/publication/hebert-2007-numerical/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

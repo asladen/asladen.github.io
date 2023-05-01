@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hugo Perfettini on </title>
+    <link>https://asladen.github.io/authors/hugo-perfettini/</link>
+    <description>Recent content in Hugo Perfettini on </description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 01 Jan 2016 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="https://asladen.github.io/authors/hugo-perfettini/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Postseismic relocking of the subduction megathrust following the 2007 Pisco, Peru, earthquake</title>
+      <link>https://asladen.github.io/publication/content/publication/remy-2016-postseismic/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://asladen.github.io/publication/content/publication/remy-2016-postseismic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Seismic and aseismic slip on the Central Peru megathrust</title>
+      <link>https://asladen.github.io/publication/content/publication/perfettini-2010-seismic/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://asladen.github.io/publication/content/publication/perfettini-2010-seismic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Source model of the 2007 Mw 8.0 Pisco, Peru earthquake: Implications for seismogenic behavior of subduction megathrusts</title>
+      <link>https://asladen.github.io/publication/content/publication/sladen-2010-source/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://asladen.github.io/publication/content/publication/sladen-2010-source/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
