@@ -19,26 +19,31 @@
   </url>
   
   <url>
+    <loc>https://asladen.github.io/project/traffic/</loc>
+    <lastmod>2021-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://asladen.github.io/project/</loc>
-    <lastmod>2019-04-27T00:00:00+00:00</lastmod>
+    <lastmod>2021-04-27T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://asladen.github.io/tags/</loc>
+    <lastmod>2021-04-27T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://asladen.github.io/tags/fiber/</loc>
+    <lastmod>2021-04-27T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://asladen.github.io/project/fiber/</loc>
     <lastmod>2019-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://asladen.github.io/tags/</loc>
-    <lastmod>2019-04-27T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://asladen.github.io/tags/fiber/</loc>
-    <lastmod>2019-04-27T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
