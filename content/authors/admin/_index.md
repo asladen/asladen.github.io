@@ -28,8 +28,6 @@ interests:
 - Tsunami
 - Ocean science
 - Seafloor instrumentation
-- Machine learning
-- test
 
 education:
   courses:
@@ -95,9 +93,7 @@ user_groups:
 - Visitors
 ---
 
-Welcome! I'm a CNRS researcher in geophysics, working at [Géoazur](https://geoazur.oca.eu), the Earth Science laboratory of [University Côte d'Azur](http://univ-cotedazur.fr/en) and the [Côte d'Azur Observatory](https://www.oca.eu/en/). <br>
-My research aims mainly at better understanding earthquakes. More specifically, my work focuses on the study of the earthquake source, seismic cycle, global seismicity and seafloor instrumentation. I'm currently the PI of the ["SEAFOOD" ANR project](https://anr.fr/Project-ANR-17-CE04-0007) aiming at developing of dense and affordable seafloor instrumentation based on fiber optic cables. <br>
+Welcome! I'm a CNRS researcher with a background in geophysics, working at [Géoazur](https://geoazur.oca.eu), the Earth Science laboratory of [University Côte d'Azur](http://univ-cotedazur.fr/en) and the [Côte d'Azur Observatory](https://www.oca.eu/en/). <br>
+My current research focuses on using fiber optic sensing, particularly Distributed Acoustic Sensing (DAS), to leverage existing telecom cables and shed new light on geophysical and environmental processes. <br>
 
-At Géoazur, and within our dynamic [Seismology team](https://geoazur.oca.eu/fr/membres-equipe-seismes-geoazur), we often have opportunities for students interships and visitors so feel free to contact us.
-
-
+At Géoazur, and within our dynamic Seismology teams ([Seismic Cycle](https://geoazur.oca.eu/fr/rech-seicy-geoazur) and [Hazard & Risk](https://geoazur.oca.eu/fr/rech-sar-geoazur)), we often have opportunities for student internships and visitors, so feel free to contact us.

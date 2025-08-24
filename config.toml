@@ -1,6 +1,6 @@
 baseURL = "https://asladen.github.io/"
 languageCode = "en-us"
-title = "Anthony Sladen's homepage"
+title = "Anthony Sladen"
 disqusShortname = ""
 
 # need to change default folder with built website to docs in order to be compatible with new github setup

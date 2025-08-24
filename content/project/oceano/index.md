@@ -52,3 +52,9 @@ By analyzing the vibrations of the cable itself, we can also monitor the speed o
 *   Mata Flores, D., Sladen, A., Ampuero, J. P., Mercerat, E. D., & Rivet, D. (2023). [Monitoring deep sea currents with seafloor distributed acoustic sensing](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2022EA002723). Earth and Space Science, 10(6), e2022EA002723.
 
 *   Mata Flores, D., Mercerat, E. D., Ampuero, J. P., Rivet, D., & Sladen, A. (2023). [Identification of two vibration regimes of underwater fibre optic cables by distributed acoustic sensing](https://academic.oup.com/gji/article-abstract/234/2/1389/7091916). Geophysical Journal International, 234(2), 1389-1400.
+
+## Microseismic Noise Generation
+
+The interaction of ocean gravity waves with the coast generates a continuous seismic hum known as microseismic noise. We use DAS recordings on seafloor cables to quantify this noise generation process and better understand the coupling between the ocean and the solid Earth. The amount of energy reflected at the coast can be used to improve ocean circulation models.
+
+*   Guerin, G., Rivet, D., van den Ende, M. P. A., Stutzmann, E., Sladen, A., & Ampuero, J. P. (2022). [Quantifying microseismic noise generation from coastal reflection of gravity waves recorded by seafloor DAS](https://academic.oup.com/gji/article-abstract/231/1/394/6595879). Geophysical Journal International, 231(1), 394-407. [(Pre-print)](https://www.researchgate.net/profile/Gauthier-Guerin/publication/361005807_Quantifying_microseismic_noise_generation_from_coastal_reflection_of_gravity_waves_recorded_by_seafloor_DAS/links/62b5ca15dc817901fc78f521/Quantifying-microseismic-noise-generation-from-coastal-reflection-of-gravity-waves-recorded-by-seafloor-DAS.pdf)
