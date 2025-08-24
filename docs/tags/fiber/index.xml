@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>fiber on Anthony Sladen&#39;s webpage</title>
+    <link>https://asladen.github.io/tags/fiber/</link>
+    <description>Recent content in fiber on Anthony Sladen&#39;s webpage</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 27 Apr 2021 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="https://asladen.github.io/tags/fiber/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Fiber sensing and AI for smart territories</title>
+      <link>https://asladen.github.io/project/traffic/</link>
+      <pubDate>Tue, 27 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://asladen.github.io/project/traffic/</guid>
+      <description>
+
+&lt;p&gt;Distributed Acoustic Sensing (DAS) is a revolutionary photonic technology allowing to convert fiber optic cables into dense arrays of seismo-acoustic sensors. In pratice, this means sensors every few meters over tens of kilometers with only one instrument to deploy: the DAS interrogator at one end of the fiber. Sensors can be really sensitive (nanometric deformation of the fiber) enabling the detection of nearby trains, cars, cyclists, pedestrians&amp;hellip; And data is acquired at the speed of light enabling live monitoring of the heart beat of cities. However, this great sensing power comes at a cost: terabytes of data to process. Also, the fiber optic cables are not optimally deployed meaning that the data can be noisy and contain many overlapping signals. To overcome these challenges and develop new applications, we develop dedicated machine learning algorithms.&lt;/p&gt;
+
+&lt;p&gt;The research group includes:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://www.cedric-richard.fr/&#34; target=&#34;_blank&#34;&gt;Cédric Richard&lt;/a&gt;, professor in signal processing at University Côte d&amp;rsquo;Azur and holder of a dedicated &lt;a href=&#34;https://3ia.univ-cotedazur.eu/research/chair-holder-cedric-richard&#34; target=&#34;_blank&#34;&gt;3IA chair&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://andferrari.github.io/&#34; target=&#34;_blank&#34;&gt;André Ferrari&lt;/a&gt;, professor in signal processing at University Côte d&amp;rsquo;Azur,&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://www.martijnvandenende.nl/&#34; target=&#34;_blank&#34;&gt;Martijn van den Ende&lt;/a&gt;, former postdoctoral fellow in the project,&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;This project is supported by the &lt;a href=&#34;https://3ia.univ-cotedazur.eu/&#34; target=&#34;_blank&#34;&gt;3IA Côte d&amp;rsquo;Azur&lt;/a&gt; insititute for artificial intelligence and benefits from a collaboration with the Métropole Nice Côte d&amp;rsquo;Azur &lt;a href=&#34;https://www.nicecotedazur.org/&#34; target=&#34;_blank&#34;&gt;(MNCA)&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;monitoring-cars.png&#34; alt=&#34;Sensing passing cars thanks to a fiber optic cable along the road&#34; title=&#34;Simple case of car sensing thanks to a fiber optic cable along the road and DAS. Credit:Martijn van den Ende&#34; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;das-data-denoising&#34;&gt;DAS data denoising&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;van den Ende, M., Lior, I., Ampuero, J. P., Sladen, A., Ferrari, A., &amp;amp; Richard, C. (2021). A self-supervised deep learning approach for blind denoising and waveform coherence enhancement in distributed acoustic sensing data. &lt;a href=&#34;https://ieeexplore.ieee.org/abstract/document/9655039/&#34; target=&#34;_blank&#34;&gt;IEEE Transactions on Neural Networks and Learning Systems&lt;/a&gt;. &lt;a href=&#34;https://hal.science/hal-03347303/document&#34; target=&#34;_blank&#34;&gt;(Pre-print)&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;car-signal-detection&#34;&gt;Car signal detection&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;van den Ende, M., Ferrari, A., Sladen, A., &amp;amp; Richard, C. (2022). Deep Deconvolution for Traffic Analysis with Distributed Acoustic Sensing Data. &lt;a href=&#34;https://ieeexplore.ieee.org/abstract/document/9966323/&#34; target=&#34;_blank&#34;&gt;IEEE Transactions on Intelligent Transportation Systems&lt;/a&gt;.&lt;a href=&#34;https://scholar.archive.org/work/3sblqnvvprbptkrg7hevw5aa74/access/wayback/https://eartharxiv.org/repository/object/2713/download/5525/&#34; target=&#34;_blank&#34;&gt;(Pre-print)&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Khacef, Y., van den Ende, M., Ferrari, A., Richard, C., &amp;amp; Sladen, A. (2022, October). Self-Supervised Velocity Field Learning for High-Resolution Traffic Monitoring with Distributed Acoustic Sensing. In 2022 &lt;a href=&#34;https://ieeexplore.ieee.org/abstract/document/10051959/&#34; target=&#34;_blank&#34;&gt;56th Asilomar Conference on Signals, Systems, and Computers (pp. 790-794), IEEE&lt;/a&gt;. &lt;a href=&#34;http://www.cedric-richard.fr/Articles/khacef2022self.pdf&#34; target=&#34;_blank&#34;&gt;(Pre-print)&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Seafloor fiber optic sensing</title>
+      <link>https://asladen.github.io/project/fiber/</link>
+      <pubDate>Sat, 27 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://asladen.github.io/project/fiber/</guid>
+      <description>
+
+&lt;p&gt;In order to address the critical lack of data on the dynamics and physical evolution of the seafloor (coastal erosion, tectonic or volcanic motions, gravitational instabilities, etc.), we are exploring the potential of &lt;a href=&#34;https://en.wikipedia.org/wiki/Fiber_optic_sensor&#34; target=&#34;_blank&#34;&gt;Distributed Fiber-Optic Sensing&lt;/a&gt; (DFOS) technology to complement or improve existing seafloor monitoring techniques.&lt;/p&gt;
+
+&lt;p&gt;DFOS is a revolutionary technique allowing to quantify deformation, temperature and/or acoustic signals typically every few meter of a standard optic fiber cable and over distances of several tenths of kilometers. The physical principle is not new but decades of improvements in the price and performance of the components make it a potential affordable alternative to standard seafloor instrumentation. Compared to traditional electro-mechanical sensors, optical fibers have many advantages: they are passive, lightweight, small, immune to electromagnetic interferences and tolerant to harsh environments (temperature and pressure). Data acquisition is done at the speed of light allowing any new application to become an operational system, and allowing the development of new early-warning systems. With DAS group at the Géoazur lab, we are especially focused on a particular DFOS technology call Distributed Acoustic Sensing (DAS).&lt;/p&gt;
+
+&lt;p&gt;There are two main strategies to harness the potential of DFOS, either through the deployment of a dedicated cable, or the use of cables in place:&lt;/p&gt;
+
+&lt;h3 id=&#34;existing-fiber-optic-cables&#34;&gt;Existing fiber optic cables&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&#34;submarine_cable_map.png&#34; alt=&#34;Seafloor fiber optic cable map&#34; title=&#34;Seafloor fiber optic cable map. Credit:wikipedia&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Thanks to the telecom industry, the seafloors are already largely covered with fiber optic cables. The challenge here is to define the potential of these large infrastructures to provide meaningful geophysical signals measurements despite not being optimized for that.&lt;/p&gt;
+
+&lt;p&gt;Our first steps into the realm of seafloor fiber seismo-acoustic sensing, unveiling the potential of the approach to monitor earthquakes, swell, microseism&amp;hellip;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Sladen, A., Rivet, D., Ampuero, J. P., De Barros, L., Hello, Y., Calbris, G., &amp;amp; Lamare, P. (2019). Distributed sensing of earthquakes and ocean-solid Earth interactions on seafloor telecom cables. &lt;a href=&#34;https://www.nature.com/articles/s41467-019-13793-z&#34; target=&#34;_blank&#34;&gt;Nature communications&lt;/a&gt;, 10(1), 5777.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Imagery of the subsurface&lt;/strong&gt; and of resonant modes in sedimentary basins:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Lior, I., Mercerat, E. D., Rivet, D., Sladen, A., &amp;amp; Ampuero, J. P. (2022). Imaging an underwater basin and its resonance modes using optical fiber distributed acoustic sensing. &lt;a href=&#34;https://pubs.geoscienceworld.org/ssa/srl/article-abstract/93/3/1573/612878&#34; target=&#34;_blank&#34;&gt;Seismological Research Letters&lt;/a&gt;, 93(3), 1573-1584. &lt;a href=&#34;https://hal.science/hal-03452259/&#34; target=&#34;_blank&#34;&gt;Pre-print&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Earthquake detection&lt;/strong&gt; and potential of the approach for early-warning:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Lior, I., Sladen, A., Rivet, D., Ampuero, J. P., Hello, Y., Becerril, C., &amp;hellip; &amp;amp; Markou, C. (2021). On the detection capabilities of underwater distributed acoustic sensing. &lt;a href=&#34;https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2020jb020925&#34; target=&#34;_blank&#34;&gt;Journal of Geophysical Research: Solid Earth&lt;/a&gt;, 126(3), e2020JB020925.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Lior, I., Sladen, A., Mercerat, D., Ampuero, J. P., Rivet, D., &amp;amp; Sambolian, S. (2021). Strain to ground motion conversion of distributed acoustic sensing data for earthquake magnitude and stress drop determination. &lt;a href=&#34;https://se.copernicus.org/articles/12/1421/2021/&#34; target=&#34;_blank&#34;&gt;Solid Earth&lt;/a&gt;, 12(6), 1421-1442.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Lior, I., Rivet, D., Ampuero, J. P., Sladen, A., Barrientos, S., Sánchez-Olavarría, R., &amp;hellip; &amp;amp; Bustamante Prado, J. A. (2023). Magnitude estimation and ground motion prediction to harness fiber optic distributed acoustic sensing for earthquake early warning. &lt;a href=&#34;https://www.nature.com/articles/s41598-023-27444-3&#34; target=&#34;_blank&#34;&gt;Scientific Reports&lt;/a&gt;, 13(1), 424.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Physical oceanography&lt;/strong&gt; including microseismic noise generation, seafloor currents and thermometry:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Guerin, G., Rivet, D., van den Ende, M. P. A., Stutzmann, E., Sladen, A., &amp;amp; Ampuero, J. P. (2022). Quantifying microseismic noise generation from coastal reflection of gravity waves recorded by seafloor DAS. &lt;a href=&#34;https://academic.oup.com/gji/article-abstract/231/1/394/6595879&#34; target=&#34;_blank&#34;&gt;Geophysical Journal International&lt;/a&gt;, 231(1), 394-407. &lt;a href=&#34;https://www.researchgate.net/profile/Gauthier-Guerin/publication/361005807_Quantifying_microseismic_noise_generation_from_coastal_reflection_of_gravity_waves_recorded_by_seafloor_DAS/links/62b5ca15dc817901fc78f521/Quantifying-microseismic-noise-generation-from-coastal-reflection-of-gravity-waves-recorded-by-seafloor-DAS.pdf&#34; target=&#34;_blank&#34;&gt;(Pre-print)&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Flores, D. M., Sladen, A., Ampuero, J. P., Mercerat, E. D., &amp;amp; Rivet, D. (2022). Monitoring Deep Sea Currents with Seafloor Distributed Acoustic Sensing. &lt;a href=&#34;https://www.authorea.com/doi/full/10.1002/essoar.10512729.1&#34; target=&#34;_blank&#34;&gt;(Authorea Preprint)&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Quiñones, J. P., Sladen, A., Ponte, A., Lior, I., Ampuero, J. P., Rivet, D., &amp;hellip; &amp;amp; Coyle, P. (2022). High resolution seafloor thermometry and internal wave monitoring using Distributed Acoustic Sensing. &lt;a href=&#34;https://quarxiv.authorea.com/doi/full/10.1002/essoar.10512858.1&#34; target=&#34;_blank&#34;&gt;(Authorea Preprints)&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;dedicated-fiber-optic-cables&#34;&gt;Dedicated fiber optic cables&lt;/h3&gt;
+
+&lt;p&gt;In many cases, places of geophysical interest might not be covered with optical fiber cables. The thick armored cables used by the telecom industry are too expensive for academic applications. Instead, we are developing a lightweight plow to trench thin fiber optic cables inside the sediments of the seafloor. Trenching the cable allows to improve the coupling and protect the thin cable from fishing activities. Our plow system was first tested and validated in 2018 offshore the Nice airport, France. The first deployment of fiber optic cables is scheduled in the same area in 2019. The area offshore the Nice airport is both a convenient local test site but also an area of great scientific and societal interest: the seafloor shows many signs of fluid seepage and the steep slopes might be prone to destabilization; in 1979, a submarine landslide triggered a &lt;a href=&#34;https://en.wikipedia.org/wiki/1979_nice_tsunami&#34; target=&#34;_blank&#34;&gt;local tsunami&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
