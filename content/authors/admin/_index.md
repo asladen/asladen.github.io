@@ -18,14 +18,18 @@ organizations:
   url: "https://geoazur.oca.eu"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include earthquake source, seismic cycle, seafloor metrology
+#bio: My research focuses interests include earthquake source, seismic cycle, seafloor metrology
+bio: My research focuses on using fiber optics for environmental monitoring, with a specific emphasis on seismology, tsunamis, and ocean science
 
 interests:
+- Distributed fiber optic sensing
 - Earthquake source
 - Seismic cycle
 - Tsunami
+- Ocean science
 - Seafloor instrumentation
-- Distributed fiber optic sensing
+- Machine learning
+- test
 
 education:
   courses:
@@ -59,12 +63,12 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/EQ_Geoazur
+#- icon: twitter
+#  icon_pack: fab
+#  link: https://twitter.com/SladenAnthony
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.com/citations?user=si7EzVUAAAAJ&hl=en
+  link: https://scholar.google.com/citations?hl=fr&user=si7EzVUAAAAJ&view_op=list_works&sortby=pubdate
 - icon: github
   icon_pack: fab
   link: https://github.com/asladen

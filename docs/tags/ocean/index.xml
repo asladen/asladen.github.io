@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ocean on Anthony Sladen&#39;s webpage</title>
+    <link>https://asladen.github.io/tags/ocean/</link>
+    <description>Recent content in ocean on Anthony Sladen&#39;s webpage</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 21 May 2024 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="https://asladen.github.io/tags/ocean/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Seafloor thermometry and wave height with fiber optics</title>
+      <link>https://asladen.github.io/project/thermometry_wave/</link>
+      <pubDate>Tue, 21 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://asladen.github.io/project/thermometry_wave/</guid>
+      <description>
+
+&lt;p&gt;Seafloor telecommunication cables can be turned into dense arrays of environmental sensors using Distributed Acoustic Sensing (DAS). This project highlights recent work on using these underwater fiber optic cables for high-resolution ocean monitoring, including measuring temperature changes and reconstructing wave heights. This new technology provides unique observations and insight into the physical processes at play in the ocean, with the additional benefit of being able to monitor oceanographic variables in real time.&lt;/p&gt;
+
+&lt;h2 id=&#34;seafloor-thermometry&#34;&gt;Seafloor Thermometry&lt;/h2&gt;
+
+&lt;p&gt;We have demonstrated that DAS can be used for high-resolution seafloor thermometry: up to mK variations over tens of kilometers with virtual sensors every few meters. This allows for monitoring of internal waves and upwelling events with unprecedented detail.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Pelaez Quiñones, J. D., Sladen, A., et al. (2023). High resolution seafloor thermometry for internal wave and upwelling monitoring using Distributed Acoustic Sensing. Scientific Reports.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;wave-height-reconstruction&#34;&gt;Wave Height Reconstruction&lt;/h2&gt;
+
+&lt;p&gt;This work demonstrates a method to reconstruct nearshore wave heights from the strain data recorded by seafloor cables, providing valuable data for coastal hazard assessment, oceanographic studies, and realtime marine weather monitoring.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Meulé, S., Pelaez‐quiñones, J., Bouchette, F., Sladen, A., Ponte, A., Maier, A., &amp;hellip; &amp;amp; Coyle, P. (2024). Reconstruction of Nearshore Surface Gravity Wave Heights From Distributed Acoustic Sensing Data. Earth and Space Science&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

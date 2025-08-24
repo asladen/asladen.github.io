@@ -21,10 +21,23 @@ subtitle = ""
   # Default filter index (e.g. 0 corresponds to the first `[[filter_button]]` instance below).
   filter_default = 0
   
+  
   [[content.filter_button]]
     name = "All"
     tag = "*"
   
+  [[content.filter_button]]
+    name = "Fiber optic sensing (DAS)"
+    tag = "fiber"
+
+  [[content.filter_button]]
+    name = "Physical oceanography"
+    tag = "oceano"
+
+  [[content.filter_button]]
+    name = "Smart city"
+    tag = "smart_city"
+
   [[content.filter_button]]
     name = "Earthquake source"
     tag = "eq_src"
@@ -36,12 +49,6 @@ subtitle = ""
 [[content.filter_button]]
     name = "Seismicity"
     tag = "seismicity"
-
-
-  [[content.filter_button]]
-    name = "Fiber optic sensing"
-    tag = "fiber"
- 
 
   [[content.filter_button]]
     name = "Other"

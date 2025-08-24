@@ -36,14 +36,56 @@
     </item>
     
     <item>
-      <title>Fiber sensing and AI for smart territories</title>
-      <link>https://asladen.github.io/project/traffic/</link>
-      <pubDate>Tue, 27 Apr 2021 00:00:00 +0000</pubDate>
+      <title>Fiber optics sensing sheds new light on physical ocean processes</title>
+      <link>https://asladen.github.io/project/oceano/</link>
+      <pubDate>Tue, 21 May 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://asladen.github.io/project/traffic/</guid>
+      <guid>https://asladen.github.io/project/oceano/</guid>
       <description>
 
-&lt;p&gt;Distributed Acoustic Sensing (DAS) is a revolutionary photonic technology allowing to convert fiber optic cables into dense arrays of seismo-acoustic sensors. In pratice, this means sensors every few meters over tens of kilometers with only one instrument to deploy: the DAS interrogator at one end of the fiber. Sensors can be really sensitive (nanometric deformation of the fiber) enabling the detection of nearby trains, cars, cyclists, pedestrians&amp;hellip; And data is acquired at the speed of light enabling live monitoring of the heart beat of cities. However, this great sensing power comes at a cost: terabytes of data to process. Also, the fiber optic cables are not optimally deployed meaning that the data can be noisy and contain many overlapping signals. To overcome these challenges and develop new applications, we develop dedicated machine learning algorithms.&lt;/p&gt;
+&lt;p&gt;Seafloor telecommunication cables can be turned into dense arrays of environmental sensors using Distributed Acoustic Sensing (DAS). This project highlights recent work on using these underwater fiber optic cables for high-resolution ocean monitoring, including measuring temperature changes and reconstructing wave heights. This new technology provides unique observations and insight into the physical processes at play in the ocean, with the additional benefit of being able to monitor oceanographic variables in real time.&lt;/p&gt;
+
+&lt;h2 id=&#34;seafloor-thermometry&#34;&gt;Seafloor Thermometry&lt;/h2&gt;
+
+&lt;p&gt;We have demonstrated that DAS can be used for high-resolution seafloor thermometry: up to mK variations over tens of kilometers with virtual sensors every few meters. This allows for monitoring of internal waves and upwelling events with unprecedented detail.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Pelaez Quiñones, J. D., Sladen, A., et al. (2023). &lt;a href=&#34;https://www.nature.com/articles/s41598-023-44635-0&#34; target=&#34;_blank&#34;&gt;High resolution seafloor thermometry for internal wave and upwelling monitoring using Distributed Acoustic Sensing&lt;/a&gt;. Scientific Reports.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&#34;wave-height.jpg&#34; alt=&#34;Wave height reconstruction from DAS data (black) compared with reference seafloor pressure sensor (red).&#34; title=&#34;Wave height reconstruction from DAS data. Credit: Meulé et al., 2024&#34; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;wave-height-reconstruction&#34;&gt;Wave Height Reconstruction&lt;/h2&gt;
+
+&lt;p&gt;This work demonstrates a method to reconstruct nearshore wave heights from the strain data recorded by seafloor cables, providing valuable data for coastal hazard assessment, oceanographic studies, and realtime marine weather monitoring.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Meulé, S., Pelaez‐quiñones, J., Bouchette, F., Sladen, A., Ponte, A., Maier, A., &amp;hellip; &amp;amp; Coyle, P. (2024). &lt;a href=&#34;https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2024EA003589&#34; target=&#34;_blank&#34;&gt;Reconstruction of Nearshore Surface Gravity Wave Heights From Distributed Acoustic Sensing Data&lt;/a&gt;. Earth and Space Science&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&#34;currentmeter.jpg&#34; alt=&#34;Comparison of current speed derived from DAS data (dark blue) and a nearby reference current meter (black) on the deep seafloor of the Mediterranean ocean.&#34; title=&#34;Turning seafloor cables into current meters. Credit: Mata et al., 2023&#34; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;deep-sea-current-monitoring&#34;&gt;Deep Sea Current Monitoring&lt;/h2&gt;
+
+&lt;p&gt;By analyzing the vibrations of the cable itself, we can also monitor the speed of deep sea currents flowing over the seafloor cable. These results were validated against a current meter at the end of the cable.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Mata Flores, D., Sladen, A., Ampuero, J. P., Mercerat, E. D., &amp;amp; Rivet, D. (2023). &lt;a href=&#34;https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2022EA002723&#34; target=&#34;_blank&#34;&gt;Monitoring deep sea currents with seafloor distributed acoustic sensing&lt;/a&gt;. Earth and Space Science, 10(6), e2022EA002723.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Mata Flores, D., Mercerat, E. D., Ampuero, J. P., Rivet, D., &amp;amp; Sladen, A. (2023). &lt;a href=&#34;https://academic.oup.com/gji/article-abstract/234/2/1389/7091916&#34; target=&#34;_blank&#34;&gt;Identification of two vibration regimes of underwater fibre optic cables by distributed acoustic sensing&lt;/a&gt;. Geophysical Journal International, 234(2), 1389-1400.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Fiber sensing and AI for smart territories</title>
+      <link>https://asladen.github.io/project/smart_city/</link>
+      <pubDate>Tue, 27 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://asladen.github.io/project/smart_city/</guid>
+      <description>
+
+&lt;p&gt;Distributed Acoustic Sensing (DAS) is a revolutionary photonic technology allowing to convert existing fiber optic cables into dense arrays of seismo-acoustic sensors. In pratice, this means sensors every few meters over tens of kilometers with only one instrument to deploy: the DAS interrogator at one end of the fiber. Sensors can be really sensitive (nanometric deformation of the fiber) enabling the detection of nearby trains, cars, cyclists, pedestrians&amp;hellip; And data is acquired at the speed of light enabling live monitoring of the heart beat of cities. However, this great sensing power comes at a cost: terabytes of data to process. Also, the fiber optic cables are not optimally deployed meaning that the data can be noisy and contain many overlapping signals. To overcome these challenges and develop new applications, we develop advanced algorithms capable to retrieve valuable metrics (number of cars, type of vehicule, traffic speed&amp;hellip;)  with meter-scale precision, in real time, and even in complex configuration (high traffic density).&lt;/p&gt;
 
 &lt;p&gt;The research group includes:&lt;/p&gt;
 
@@ -65,12 +107,14 @@
 &lt;li&gt;van den Ende, M., Lior, I., Ampuero, J. P., Sladen, A., Ferrari, A., &amp;amp; Richard, C. (2021). A self-supervised deep learning approach for blind denoising and waveform coherence enhancement in distributed acoustic sensing data. &lt;a href=&#34;https://ieeexplore.ieee.org/abstract/document/9655039/&#34; target=&#34;_blank&#34;&gt;IEEE Transactions on Neural Networks and Learning Systems&lt;/a&gt;. &lt;a href=&#34;https://hal.science/hal-03347303/document&#34; target=&#34;_blank&#34;&gt;(Pre-print)&lt;/a&gt;.&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&#34;car-signal-detection&#34;&gt;Car signal detection&lt;/h2&gt;
+&lt;h2 id=&#34;road-traffic-monitoring&#34;&gt;Road traffic monitoring&lt;/h2&gt;
 
 &lt;ul&gt;
 &lt;li&gt;&lt;p&gt;van den Ende, M., Ferrari, A., Sladen, A., &amp;amp; Richard, C. (2022). Deep Deconvolution for Traffic Analysis with Distributed Acoustic Sensing Data. &lt;a href=&#34;https://ieeexplore.ieee.org/abstract/document/9966323/&#34; target=&#34;_blank&#34;&gt;IEEE Transactions on Intelligent Transportation Systems&lt;/a&gt;.&lt;a href=&#34;https://scholar.archive.org/work/3sblqnvvprbptkrg7hevw5aa74/access/wayback/https://eartharxiv.org/repository/object/2713/download/5525/&#34; target=&#34;_blank&#34;&gt;(Pre-print)&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
 
 &lt;li&gt;&lt;p&gt;Khacef, Y., van den Ende, M., Ferrari, A., Richard, C., &amp;amp; Sladen, A. (2022, October). Self-Supervised Velocity Field Learning for High-Resolution Traffic Monitoring with Distributed Acoustic Sensing. In 2022 &lt;a href=&#34;https://ieeexplore.ieee.org/abstract/document/10051959/&#34; target=&#34;_blank&#34;&gt;56th Asilomar Conference on Signals, Systems, and Computers (pp. 790-794), IEEE&lt;/a&gt;. &lt;a href=&#34;http://www.cedric-richard.fr/Articles/khacef2022self.pdf&#34; target=&#34;_blank&#34;&gt;(Pre-print)&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Khacef, Y., van den Ende, M., Richard, C., Ferrari, A., &amp;amp; Sladen, A. (2025). Precision Traffic Monitoring: Leveraging Distributed Acoustic Sensing and Deep Neural Networks. &lt;a href=&#34;https://ieeexplore.ieee.org/abstract/document/10960439/&#34; target=&#34;_blank&#34;&gt;IEEE Transactions on Intelligent Transportation Systems&lt;/a&gt;. &lt;a href=&#34;https://hal.science/hal-04632372/&#34; target=&#34;_blank&#34;&gt;(Pre-print)&lt;/a&gt;.&lt;/p&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
