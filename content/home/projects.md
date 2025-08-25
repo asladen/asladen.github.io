@@ -31,24 +31,12 @@ subtitle = ""
     tag = "fiber"
 
   [[content.filter_button]]
-    name = "Physical oceanography"
-    tag = "oceano"
+    name = "Ocean"
+    tag = "ocean"
 
   [[content.filter_button]]
-    name = "Smart city"
-    tag = "smart_city"
-
-  [[content.filter_button]]
-    name = "Earthquake source"
-    tag = "eq_src"
-
-  [[content.filter_button]]
-    name = "Seismic cycle"
-    tag = "cycle"
-
-[[content.filter_button]]
-    name = "Seismicity"
-    tag = "seismicity"
+    name = "Earthquakes"
+    tag = "eq"
 
   [[content.filter_button]]
     name = "Other"

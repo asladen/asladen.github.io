@@ -5,7 +5,7 @@ summary: Using Distributed Acoustic Sensing (DAS) on existing seafloor fiber opt
 # Tags (optional).
 tags:
 - fiber
-- oceano
+- ocean
 date: "2024-05-21T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).

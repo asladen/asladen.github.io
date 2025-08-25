@@ -2,7 +2,7 @@
 title: Outer-rise seismicity
 summary: Outer-rise earthquakes occur in the oceanic plate just before it enters the subduction zone. We investigate this particular type of seismicity to understand its link to the subduction.
 tags:
-- seismicity
+- eq
 date: "2018-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).

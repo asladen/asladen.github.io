@@ -2,7 +2,7 @@
 title: Project E-POST 
 summary: E-POST stands for Early-POSTseismic. The project aims at better understanding the transition between the coseismic (the rupture) and the processes immediately following (like afterslip). This is an ANR funded project led by M.Vergnolle.
 tags: 
-- cycle
+- eq
 
 date: "2016-04-27T00:00:00Z"
 
