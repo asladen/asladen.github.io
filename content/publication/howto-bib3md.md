@@ -31,6 +31,9 @@ academic import --bibtex my_publications.bib
 
 This will create a new Markdown file for each entry in your BibTeX file inside the `content/publication/` directory.
 
+Then you need to run modify-articletype.sh to replace the variable "publication_types: " from a string ("- article-journal") to an integer ["2"]
+
+
 ## Optional arguments
 
 You can use several options to customize the import process:

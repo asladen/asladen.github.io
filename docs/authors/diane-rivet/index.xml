@@ -6,10 +6,142 @@
     <description>Recent content in Diane Rivet on Anthony Sladen&#39;s webpage</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 05 Feb 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://asladen.github.io/authors/diane-rivet/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Non-Intrusive DAS Coexisting in Telecom Networks</title>
+      <link>https://asladen.github.io/publication/journal-article/brenne-2024-non/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://asladen.github.io/publication/journal-article/brenne-2024-non/</guid>
+      <description>&lt;p&gt;This paper details a technique to use Distributed Acoustic Sensing (DAS) on fiber optic cables that are simultaneously carrying live telecom data. The key challenge is to avoid interference between the sensing signals and the data channels. Our approach uses a dedicated wavelength for the DAS interrogator that is outside the standard telecom C-band, allowing both systems to operate in parallel on the same fiber.&lt;/p&gt;
+
+&lt;p&gt;This non-intrusive method unlocks the potential to use the vast global network of existing subsea and terrestrial telecom cables as dense arrays of environmental sensors for monitoring earthquakes, ocean dynamics, and more.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>From Strain to Displacement: Using Deformation to Enhance Distributed Acoustic Sensing Applications</title>
+      <link>https://asladen.github.io/publication/journal-article/trabattoni-2023-strain/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://asladen.github.io/publication/journal-article/trabattoni-2023-strain/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>High Resolution Seafloor Thermometry for Internal Wave and Upwelling Monitoring Using Distributed Acoustic Sensing</title>
+      <link>https://asladen.github.io/publication/journal-article/pelaez-2023-high/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://asladen.github.io/publication/journal-article/pelaez-2023-high/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Identification of Two Vibration Regimes of Underwater Fibre Optic Cables by Distributed Acoustic Sensing</title>
+      <link>https://asladen.github.io/publication/journal-article/mata-2023-identification/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://asladen.github.io/publication/journal-article/mata-2023-identification/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Magnitude Estimation and Ground Motion Prediction to Harness Fiber Optic Distributed Acoustic Sensing for Earthquake Early Warning</title>
+      <link>https://asladen.github.io/publication/journal-article/lior-2023-magnitude/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://asladen.github.io/publication/journal-article/lior-2023-magnitude/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Monitoring Deep Sea Currents with Seafloor Distributed Acoustic Sensing</title>
+      <link>https://asladen.github.io/publication/journal-article/mata-2023-monitoring/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://asladen.github.io/publication/journal-article/mata-2023-monitoring/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Brief Communication: Seismological Analysis of Flood Dynamics and Hydrologically Triggered Earthquake Swarms Associated with Storm Alex</title>
+      <link>https://asladen.github.io/publication/journal-article/chmiel-2022-brief/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://asladen.github.io/publication/journal-article/chmiel-2022-brief/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Harnessing Distributed Acoustic Sensing for Earthquake Early Warning: Magnitude Estimation and Ground Motion Prediction</title>
+      <link>https://asladen.github.io/publication/journal-article/lior-2022-harnessing/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://asladen.github.io/publication/journal-article/lior-2022-harnessing/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Imaging an Underwater Basin and Its Resonance Modes Using Optical Fiber Distributed Acoustic Sensing</title>
+      <link>https://asladen.github.io/publication/journal-article/lior-2022-imaging/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://asladen.github.io/publication/journal-article/lior-2022-imaging/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Quantifying Microseismic Noise Generation from Coastal Reflection of Gravity Waves Recorded by Seafloor DAS</title>
+      <link>https://asladen.github.io/publication/journal-article/guerin-2022-quantifying/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://asladen.github.io/publication/journal-article/guerin-2022-quantifying/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>On the Detection Capabilities of Underwater Distributed Acoustic Sensing</title>
+      <link>https://asladen.github.io/publication/journal-article/lior-2021-detection/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://asladen.github.io/publication/journal-article/lior-2021-detection/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Preliminary Assessment of Ship Detection and Trajectory Evaluation Using Distributed Acoustic Sensing on an Optical Fiber Telecom Cable</title>
+      <link>https://asladen.github.io/publication/journal-article/rivet-2021-preliminary/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://asladen.github.io/publication/journal-article/rivet-2021-preliminary/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Strain to Ground Motion Conversion of DAS Data for Earthquake Magnitude and Stress Drop Determination</title>
+      <link>https://asladen.github.io/publication/journal-article/lior-2021-strain/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://asladen.github.io/publication/journal-article/lior-2021-strain/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Slides</title>
@@ -195,10 +327,10 @@ $$&lt;/p&gt;
     
     <item>
       <title>Distributed sensing of earthquakes and ocean-solid Earth interactions on seafloor telecom cables</title>
-      <link>https://asladen.github.io/publication/content/preprint/sladen-2019-distributed/</link>
+      <link>https://asladen.github.io/publication/preprint/sladen-2019-distributed/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://asladen.github.io/publication/content/preprint/sladen-2019-distributed/</guid>
+      <guid>https://asladen.github.io/publication/preprint/sladen-2019-distributed/</guid>
       <description></description>
     </item>
     

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Françoise Courboulex on Anthony Sladen&#39;s webpage</title>
+    <link>https://asladen.github.io/authors/francoise-courboulex/</link>
+    <description>Recent content in Françoise Courboulex on Anthony Sladen&#39;s webpage</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="https://asladen.github.io/authors/francoise-courboulex/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Distributed Acoustic Sensing for Aftershock Monitoring: The Case of the 2019 Mw 4.9 Le Teil Earthquake</title>
+      <link>https://asladen.github.io/publication/journal-article/van-2024-distributed/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://asladen.github.io/publication/journal-article/van-2024-distributed/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Brief Communication: Seismological Analysis of Flood Dynamics and Hydrologically Triggered Earthquake Swarms Associated with Storm Alex</title>
+      <link>https://asladen.github.io/publication/journal-article/chmiel-2022-brief/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://asladen.github.io/publication/journal-article/chmiel-2022-brief/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

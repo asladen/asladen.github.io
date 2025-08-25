@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Léa Bouffaut on Anthony Sladen&#39;s webpage</title>
+    <link>https://asladen.github.io/authors/lea-bouffaut/</link>
+    <description>Recent content in Léa Bouffaut on Anthony Sladen&#39;s webpage</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="https://asladen.github.io/authors/lea-bouffaut/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Estimating sound pressure levels from distributed acoustic sensing data using 20 Hz fin whale calls</title>
+      <link>https://asladen.github.io/publication/journal-article/bouffaut-2025-estimating/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://asladen.github.io/publication/journal-article/bouffaut-2025-estimating/</guid>
+      <description>&lt;p&gt;This research presents a novel method to calibrate Distributed Acoustic Sensing (DAS) data for quantitative underwater acoustic measurements. By analyzing the well-known 20 Hz calls of fin whales recorded on different seafloor telecom cables, we developed a robust conversion factor between the strain measured by the fiber and the actual acoustic pressure in the water.&lt;/p&gt;
+
+&lt;p&gt;This work is a significant step towards using existing global fiber optic networks for passive acoustic monitoring of marine life and other underwater sound sources.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

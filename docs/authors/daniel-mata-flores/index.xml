@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Daniel Mata Flores on Anthony Sladen&#39;s webpage</title>
+    <link>https://asladen.github.io/authors/daniel-mata-flores/</link>
+    <description>Recent content in Daniel Mata Flores on Anthony Sladen&#39;s webpage</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 01 Aug 2025 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="https://asladen.github.io/authors/daniel-mata-flores/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Calving-driven fjord dynamics resolved by seafloor fibre sensing</title>
+      <link>https://asladen.github.io/publication/journal-article/graff-2025-calving/</link>
+      <pubDate>Fri, 01 Aug 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://asladen.github.io/publication/journal-article/graff-2025-calving/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Monitoring Deep Sea Currents with Seafloor Distributed Acoustic Sensing</title>
+      <link>https://asladen.github.io/publication/journal-article/mata-2023-monitoring/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://asladen.github.io/publication/journal-article/mata-2023-monitoring/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

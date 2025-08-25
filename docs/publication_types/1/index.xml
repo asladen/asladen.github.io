@@ -6,17 +6,49 @@
     <description>Recent content in 1 on Anthony Sladen&#39;s webpage</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 01 Jan 2005 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://asladen.github.io/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Non-Intrusive DAS Coexisting in Telecom Networks</title>
+      <link>https://asladen.github.io/publication/journal-article/brenne-2024-non/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://asladen.github.io/publication/journal-article/brenne-2024-non/</guid>
+      <description>&lt;p&gt;This paper details a technique to use Distributed Acoustic Sensing (DAS) on fiber optic cables that are simultaneously carrying live telecom data. The key challenge is to avoid interference between the sensing signals and the data channels. Our approach uses a dedicated wavelength for the DAS interrogator that is outside the standard telecom C-band, allowing both systems to operate in parallel on the same fiber.&lt;/p&gt;
+
+&lt;p&gt;This non-intrusive method unlocks the potential to use the vast global network of existing subsea and terrestrial telecom cables as dense arrays of environmental sensors for monitoring earthquakes, ocean dynamics, and more.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Self-Supervised Velocity Field Learning for High-Resolution Traffic Monitoring with Distributed Acoustic Sensing</title>
+      <link>https://asladen.github.io/publication/journal-article/khacef-2022-self/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://asladen.github.io/publication/journal-article/khacef-2022-self/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Next-Generation Traffic Monitoring with Distributed Acoustic Sensing Arrays and Optimum Array Processing</title>
+      <link>https://asladen.github.io/publication/journal-article/van-2021-next/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://asladen.github.io/publication/journal-article/van-2021-next/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Comprendre et prévenir les tsunamis-: les apports de la simulation numérique</title>
-      <link>https://asladen.github.io/publication/content/publication/hebert-2005-comprendre/</link>
+      <link>https://asladen.github.io/publication/journal-article/hebert-2005-comprendre/</link>
       <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
       
-      <guid>https://asladen.github.io/publication/content/publication/hebert-2005-comprendre/</guid>
+      <guid>https://asladen.github.io/publication/journal-article/hebert-2005-comprendre/</guid>
       <description></description>
     </item>
     

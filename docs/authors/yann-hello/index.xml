@@ -13,10 +13,20 @@
     
     <item>
       <title>First Installation of an Optical Ocean-Bottom Seismometer, Cabled Offshore Les Saintes, Lesser Antilles</title>
-      <link>https://asladen.github.io/publication/content/publication/bernard-2024-first/</link>
+      <link>https://asladen.github.io/publication/journal-article/bernard-2024-first/</link>
       <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://asladen.github.io/publication/content/publication/bernard-2024-first/</guid>
+      <guid>https://asladen.github.io/publication/journal-article/bernard-2024-first/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>On the Detection Capabilities of Underwater Distributed Acoustic Sensing</title>
+      <link>https://asladen.github.io/publication/journal-article/lior-2021-detection/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://asladen.github.io/publication/journal-article/lior-2021-detection/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
@@ -205,10 +215,10 @@ $$&lt;/p&gt;
     
     <item>
       <title>Distributed sensing of earthquakes and ocean-solid Earth interactions on seafloor telecom cables</title>
-      <link>https://asladen.github.io/publication/content/preprint/sladen-2019-distributed/</link>
+      <link>https://asladen.github.io/publication/preprint/sladen-2019-distributed/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://asladen.github.io/publication/content/preprint/sladen-2019-distributed/</guid>
+      <guid>https://asladen.github.io/publication/preprint/sladen-2019-distributed/</guid>
       <description></description>
     </item>
     

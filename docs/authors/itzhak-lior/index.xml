@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Itzhak Lior on Anthony Sladen&#39;s webpage</title>
+    <link>https://asladen.github.io/authors/itzhak-lior/</link>
+    <description>Recent content in Itzhak Lior on Anthony Sladen&#39;s webpage</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 01 Nov 2024 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="https://asladen.github.io/authors/itzhak-lior/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Reconstruction of Nearshore Surface Gravity Wave Heights From Distributed Acoustic Sensing Data</title>
+      <link>https://asladen.github.io/publication/journal-article/meule-2024-reconstruction/</link>
+      <pubDate>Fri, 01 Nov 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://asladen.github.io/publication/journal-article/meule-2024-reconstruction/</guid>
+      <description>&lt;p&gt;This paper investigates the quantitative relationship between strain signals recorded by Distributed Acoustic Sensing (DAS) on seafloor cables and surface gravity waves. We establish a linear correlation that allows for the reliable determination of significant wave heights from DAS data across various sea conditions.&lt;/p&gt;
+
+&lt;p&gt;By deriving an analytical transfer function, we provide a first quantification of the effects linking cable deformation and wave kinematics. These results validate the potential of DAS for real-time, wide-area monitoring of the surface wave spectrum, which is crucial for coastal hazard assessment and oceanography.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>High Resolution Seafloor Thermometry for Internal Wave and Upwelling Monitoring Using Distributed Acoustic Sensing</title>
+      <link>https://asladen.github.io/publication/journal-article/pelaez-2023-high/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://asladen.github.io/publication/journal-article/pelaez-2023-high/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Magnitude Estimation and Ground Motion Prediction to Harness Fiber Optic Distributed Acoustic Sensing for Earthquake Early Warning</title>
+      <link>https://asladen.github.io/publication/journal-article/lior-2023-magnitude/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://asladen.github.io/publication/journal-article/lior-2023-magnitude/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Harnessing Distributed Acoustic Sensing for Earthquake Early Warning: Magnitude Estimation and Ground Motion Prediction</title>
+      <link>https://asladen.github.io/publication/journal-article/lior-2022-harnessing/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://asladen.github.io/publication/journal-article/lior-2022-harnessing/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Imaging an Underwater Basin and Its Resonance Modes Using Optical Fiber Distributed Acoustic Sensing</title>
+      <link>https://asladen.github.io/publication/journal-article/lior-2022-imaging/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://asladen.github.io/publication/journal-article/lior-2022-imaging/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>A Self-Supervised Deep Learning Approach for Blind Denoising and Waveform Coherence Enhancement in Distributed Acoustic Sensing Data</title>
+      <link>https://asladen.github.io/publication/journal-article/van-2021-self/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://asladen.github.io/publication/journal-article/van-2021-self/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>On the Detection Capabilities of Underwater Distributed Acoustic Sensing</title>
+      <link>https://asladen.github.io/publication/journal-article/lior-2021-detection/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://asladen.github.io/publication/journal-article/lior-2021-detection/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Strain to Ground Motion Conversion of DAS Data for Earthquake Magnitude and Stress Drop Determination</title>
+      <link>https://asladen.github.io/publication/journal-article/lior-2021-strain/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://asladen.github.io/publication/journal-article/lior-2021-strain/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -6,10 +6,20 @@
     <description>Recent content in Gaëtan Calbris on Anthony Sladen&#39;s webpage</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 05 Feb 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://asladen.github.io/authors/gaetan-calbris/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Preliminary Assessment of Ship Detection and Trajectory Evaluation Using Distributed Acoustic Sensing on an Optical Fiber Telecom Cable</title>
+      <link>https://asladen.github.io/publication/journal-article/rivet-2021-preliminary/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://asladen.github.io/publication/journal-article/rivet-2021-preliminary/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Slides</title>
@@ -195,10 +205,10 @@ $$&lt;/p&gt;
     
     <item>
       <title>Distributed sensing of earthquakes and ocean-solid Earth interactions on seafloor telecom cables</title>
-      <link>https://asladen.github.io/publication/content/preprint/sladen-2019-distributed/</link>
+      <link>https://asladen.github.io/publication/preprint/sladen-2019-distributed/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://asladen.github.io/publication/content/preprint/sladen-2019-distributed/</guid>
+      <guid>https://asladen.github.io/publication/preprint/sladen-2019-distributed/</guid>
       <description></description>
     </item>
     

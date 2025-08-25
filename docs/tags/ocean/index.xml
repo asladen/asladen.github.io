@@ -6,10 +6,43 @@
     <description>Recent content in ocean on Anthony Sladen&#39;s webpage</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 21 May 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 01 Aug 2025 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://asladen.github.io/tags/ocean/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Calving-driven fjord dynamics resolved by seafloor fibre sensing</title>
+      <link>https://asladen.github.io/publication/journal-article/graff-2025-calving/</link>
+      <pubDate>Fri, 01 Aug 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://asladen.github.io/publication/journal-article/graff-2025-calving/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Estimating sound pressure levels from distributed acoustic sensing data using 20 Hz fin whale calls</title>
+      <link>https://asladen.github.io/publication/journal-article/bouffaut-2025-estimating/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://asladen.github.io/publication/journal-article/bouffaut-2025-estimating/</guid>
+      <description>&lt;p&gt;This research presents a novel method to calibrate Distributed Acoustic Sensing (DAS) data for quantitative underwater acoustic measurements. By analyzing the well-known 20 Hz calls of fin whales recorded on different seafloor telecom cables, we developed a robust conversion factor between the strain measured by the fiber and the actual acoustic pressure in the water.&lt;/p&gt;
+
+&lt;p&gt;This work is a significant step towards using existing global fiber optic networks for passive acoustic monitoring of marine life and other underwater sound sources.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Reconstruction of Nearshore Surface Gravity Wave Heights From Distributed Acoustic Sensing Data</title>
+      <link>https://asladen.github.io/publication/journal-article/meule-2024-reconstruction/</link>
+      <pubDate>Fri, 01 Nov 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://asladen.github.io/publication/journal-article/meule-2024-reconstruction/</guid>
+      <description>&lt;p&gt;This paper investigates the quantitative relationship between strain signals recorded by Distributed Acoustic Sensing (DAS) on seafloor cables and surface gravity waves. We establish a linear correlation that allows for the reliable determination of significant wave heights from DAS data across various sea conditions.&lt;/p&gt;
+
+&lt;p&gt;By deriving an analytical transfer function, we provide a first quantification of the effects linking cable deformation and wave kinematics. These results validate the potential of DAS for real-time, wide-area monitoring of the surface wave spectrum, which is crucial for coastal hazard assessment and oceanography.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Fiber optics sensing sheds new light on physical ocean processes</title>
@@ -62,11 +95,23 @@
     </item>
     
     <item>
-      <title>Towards Tsunami Early-Warning with Distributed Acoustic Sensing: Expected Seafloor Strains Induced by Tsunamis</title>
-      <link>https://asladen.github.io/publication/content/preprint/becerril-2024-towards/</link>
+      <title>Non-Intrusive DAS Coexisting in Telecom Networks</title>
+      <link>https://asladen.github.io/publication/journal-article/brenne-2024-non/</link>
       <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://asladen.github.io/publication/content/preprint/becerril-2024-towards/</guid>
+      <guid>https://asladen.github.io/publication/journal-article/brenne-2024-non/</guid>
+      <description>&lt;p&gt;This paper details a technique to use Distributed Acoustic Sensing (DAS) on fiber optic cables that are simultaneously carrying live telecom data. The key challenge is to avoid interference between the sensing signals and the data channels. Our approach uses a dedicated wavelength for the DAS interrogator that is outside the standard telecom C-band, allowing both systems to operate in parallel on the same fiber.&lt;/p&gt;
+
+&lt;p&gt;This non-intrusive method unlocks the potential to use the vast global network of existing subsea and terrestrial telecom cables as dense arrays of environmental sensors for monitoring earthquakes, ocean dynamics, and more.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Towards Tsunami Early-Warning with Distributed Acoustic Sensing: Expected Seafloor Strains Induced by Tsunamis</title>
+      <link>https://asladen.github.io/publication/preprint/becerril-2024-towards/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://asladen.github.io/publication/preprint/becerril-2024-towards/</guid>
       <description>&lt;p&gt;This research explores the potential of using seafloor fiber optic cables with Distributed Acoustic Sensing (DAS) for tsunami early warning. We developed numerical models to simulate the strain that a tsunami wave would induce on a seafloor cable.&lt;/p&gt;
 
 &lt;p&gt;Our findings show that DAS is sensitive enough to detect these small deformations, providing a potential new method for real-time tsunami detection far from shore, which could significantly improve warning times.&lt;/p&gt;

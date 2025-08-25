@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Julian Pelaez on Anthony Sladen&#39;s webpage</title>
+    <link>https://asladen.github.io/authors/julian-pelaez/</link>
+    <description>Recent content in Julian Pelaez on Anthony Sladen&#39;s webpage</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="https://asladen.github.io/authors/julian-pelaez/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Non-Intrusive DAS Coexisting in Telecom Networks</title>
+      <link>https://asladen.github.io/publication/journal-article/brenne-2024-non/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://asladen.github.io/publication/journal-article/brenne-2024-non/</guid>
+      <description>&lt;p&gt;This paper details a technique to use Distributed Acoustic Sensing (DAS) on fiber optic cables that are simultaneously carrying live telecom data. The key challenge is to avoid interference between the sensing signals and the data channels. Our approach uses a dedicated wavelength for the DAS interrogator that is outside the standard telecom C-band, allowing both systems to operate in parallel on the same fiber.&lt;/p&gt;
+
+&lt;p&gt;This non-intrusive method unlocks the potential to use the vast global network of existing subsea and terrestrial telecom cables as dense arrays of environmental sensors for monitoring earthquakes, ocean dynamics, and more.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

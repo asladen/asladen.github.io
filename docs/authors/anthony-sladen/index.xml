@@ -6,23 +6,281 @@
     <description>Recent content in Anthony Sladen on Anthony Sladen&#39;s webpage</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://asladen.github.io/authors/anthony-sladen/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Towards Tsunami Early-Warning with Distributed Acoustic Sensing: Expected Seafloor Strains Induced by Tsunamis</title>
-      <link>https://asladen.github.io/publication/content/preprint/becerril-2024-towards/</link>
+      <title>Estimating sound pressure levels from distributed acoustic sensing data using 20 Hz fin whale calls</title>
+      <link>https://asladen.github.io/publication/journal-article/bouffaut-2025-estimating/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://asladen.github.io/publication/journal-article/bouffaut-2025-estimating/</guid>
+      <description>&lt;p&gt;This research presents a novel method to calibrate Distributed Acoustic Sensing (DAS) data for quantitative underwater acoustic measurements. By analyzing the well-known 20 Hz calls of fin whales recorded on different seafloor telecom cables, we developed a robust conversion factor between the strain measured by the fiber and the actual acoustic pressure in the water.&lt;/p&gt;
+
+&lt;p&gt;This work is a significant step towards using existing global fiber optic networks for passive acoustic monitoring of marine life and other underwater sound sources.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Reconstruction of Nearshore Surface Gravity Wave Heights From Distributed Acoustic Sensing Data</title>
+      <link>https://asladen.github.io/publication/journal-article/meule-2024-reconstruction/</link>
+      <pubDate>Fri, 01 Nov 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://asladen.github.io/publication/journal-article/meule-2024-reconstruction/</guid>
+      <description>&lt;p&gt;This paper investigates the quantitative relationship between strain signals recorded by Distributed Acoustic Sensing (DAS) on seafloor cables and surface gravity waves. We establish a linear correlation that allows for the reliable determination of significant wave heights from DAS data across various sea conditions.&lt;/p&gt;
+
+&lt;p&gt;By deriving an analytical transfer function, we provide a first quantification of the effects linking cable deformation and wave kinematics. These results validate the potential of DAS for real-time, wide-area monitoring of the surface wave spectrum, which is crucial for coastal hazard assessment and oceanography.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>DAS Sensitivity to Heterogeneity Scales Much Smaller than the Minimum Wavelength</title>
+      <link>https://asladen.github.io/publication/journal-article/capdeville-2024-sensitivity/</link>
       <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://asladen.github.io/publication/content/preprint/becerril-2024-towards/</guid>
+      <guid>https://asladen.github.io/publication/journal-article/capdeville-2024-sensitivity/</guid>
+      <description>&lt;p&gt;This paper delves into the unique characteristics of Distributed Acoustic Sensing (DAS) measurements, particularly their interaction with subsurface heterogeneities that are much smaller than the seismic wavelength. We demonstrate through numerical modeling and theoretical analysis that DAS, which measures strain, exhibits a significantly higher sensitivity to these small-scale features compared to traditional particle velocity measurements.&lt;/p&gt;
+
+&lt;p&gt;This enhanced sensitivity arises from the coupling of strain components to the DAS measurement. Understanding this phenomenon is crucial for both interpreting DAS data accurately and for leveraging this unique sensitivity for new applications in seismology and subsurface imaging.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Distributed Acoustic Sensing for Aftershock Monitoring: The Case of the 2019 Mw 4.9 Le Teil Earthquake</title>
+      <link>https://asladen.github.io/publication/journal-article/van-2024-distributed/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://asladen.github.io/publication/journal-article/van-2024-distributed/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Non-Intrusive DAS Coexisting in Telecom Networks</title>
+      <link>https://asladen.github.io/publication/journal-article/brenne-2024-non/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://asladen.github.io/publication/journal-article/brenne-2024-non/</guid>
+      <description>&lt;p&gt;This paper details a technique to use Distributed Acoustic Sensing (DAS) on fiber optic cables that are simultaneously carrying live telecom data. The key challenge is to avoid interference between the sensing signals and the data channels. Our approach uses a dedicated wavelength for the DAS interrogator that is outside the standard telecom C-band, allowing both systems to operate in parallel on the same fiber.&lt;/p&gt;
+
+&lt;p&gt;This non-intrusive method unlocks the potential to use the vast global network of existing subsea and terrestrial telecom cables as dense arrays of environmental sensors for monitoring earthquakes, ocean dynamics, and more.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Precision Traffic Monitoring: Leveraging Distributed Acoustic Sensing and Deep Neural Networks</title>
+      <link>https://asladen.github.io/publication/journal-article/khacef-2024-precision/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://asladen.github.io/publication/journal-article/khacef-2024-precision/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Towards Tsunami Early-Warning with Distributed Acoustic Sensing: Expected Seafloor Strains Induced by Tsunamis</title>
+      <link>https://asladen.github.io/publication/preprint/becerril-2024-towards/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://asladen.github.io/publication/preprint/becerril-2024-towards/</guid>
       <description>&lt;p&gt;This research explores the potential of using seafloor fiber optic cables with Distributed Acoustic Sensing (DAS) for tsunami early warning. We developed numerical models to simulate the strain that a tsunami wave would induce on a seafloor cable.&lt;/p&gt;
 
 &lt;p&gt;Our findings show that DAS is sensitive enough to detect these small deformations, providing a potential new method for real-time tsunami detection far from shore, which could significantly improve warning times.&lt;/p&gt;
 
 &lt;p&gt;To add an image here, place a file like &lt;code&gt;tsunami-simulation.png&lt;/code&gt; in this folder and use the following Markdown:
 &lt;code&gt;!Simulation of tsunami-induced strain on a seafloor cable&lt;/code&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Anatomy of the Tsunami and Lamb Waves-Induced Ionospheric Signatures Generated by the 2022 Hunga Tonga Volcanic Eruption</title>
+      <link>https://asladen.github.io/publication/journal-article/munaibari-2023-anatomy/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://asladen.github.io/publication/journal-article/munaibari-2023-anatomy/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>From Strain to Displacement: Using Deformation to Enhance Distributed Acoustic Sensing Applications</title>
+      <link>https://asladen.github.io/publication/journal-article/trabattoni-2023-strain/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://asladen.github.io/publication/journal-article/trabattoni-2023-strain/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>High Resolution Seafloor Thermometry for Internal Wave and Upwelling Monitoring Using Distributed Acoustic Sensing</title>
+      <link>https://asladen.github.io/publication/journal-article/pelaez-2023-high/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://asladen.github.io/publication/journal-article/pelaez-2023-high/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Identification of Two Vibration Regimes of Underwater Fibre Optic Cables by Distributed Acoustic Sensing</title>
+      <link>https://asladen.github.io/publication/journal-article/mata-2023-identification/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://asladen.github.io/publication/journal-article/mata-2023-identification/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Magnitude Estimation and Ground Motion Prediction to Harness Fiber Optic Distributed Acoustic Sensing for Earthquake Early Warning</title>
+      <link>https://asladen.github.io/publication/journal-article/lior-2023-magnitude/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://asladen.github.io/publication/journal-article/lior-2023-magnitude/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Monitoring Deep Sea Currents with Seafloor Distributed Acoustic Sensing</title>
+      <link>https://asladen.github.io/publication/journal-article/mata-2023-monitoring/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://asladen.github.io/publication/journal-article/mata-2023-monitoring/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Brief Communication: Seismological Analysis of Flood Dynamics and Hydrologically Triggered Earthquake Swarms Associated with Storm Alex</title>
+      <link>https://asladen.github.io/publication/journal-article/chmiel-2022-brief/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://asladen.github.io/publication/journal-article/chmiel-2022-brief/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Deep Deconvolution for Traffic Analysis with Distributed Acoustic Sensing Data</title>
+      <link>https://asladen.github.io/publication/journal-article/van-2022-deep/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://asladen.github.io/publication/journal-article/van-2022-deep/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Harnessing Distributed Acoustic Sensing for Earthquake Early Warning: Magnitude Estimation and Ground Motion Prediction</title>
+      <link>https://asladen.github.io/publication/journal-article/lior-2022-harnessing/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://asladen.github.io/publication/journal-article/lior-2022-harnessing/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Imaging an Underwater Basin and Its Resonance Modes Using Optical Fiber Distributed Acoustic Sensing</title>
+      <link>https://asladen.github.io/publication/journal-article/lior-2022-imaging/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://asladen.github.io/publication/journal-article/lior-2022-imaging/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Quantifying Microseismic Noise Generation from Coastal Reflection of Gravity Waves Recorded by Seafloor DAS</title>
+      <link>https://asladen.github.io/publication/journal-article/guerin-2022-quantifying/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://asladen.github.io/publication/journal-article/guerin-2022-quantifying/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Self-Supervised Velocity Field Learning for High-Resolution Traffic Monitoring with Distributed Acoustic Sensing</title>
+      <link>https://asladen.github.io/publication/journal-article/khacef-2022-self/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://asladen.github.io/publication/journal-article/khacef-2022-self/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>A Self-Supervised Deep Learning Approach for Blind Denoising and Waveform Coherence Enhancement in Distributed Acoustic Sensing Data</title>
+      <link>https://asladen.github.io/publication/journal-article/van-2021-self/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://asladen.github.io/publication/journal-article/van-2021-self/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Locating Surface Deformation Induced by Earthquakes Using GPS, GLONASS and Galileo Ionospheric Sounding from a Single Station</title>
+      <link>https://asladen.github.io/publication/journal-article/zedek-2021-locating/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://asladen.github.io/publication/journal-article/zedek-2021-locating/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Next-Generation Traffic Monitoring with Distributed Acoustic Sensing Arrays and Optimum Array Processing</title>
+      <link>https://asladen.github.io/publication/journal-article/van-2021-next/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://asladen.github.io/publication/journal-article/van-2021-next/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>On the Detection Capabilities of Underwater Distributed Acoustic Sensing</title>
+      <link>https://asladen.github.io/publication/journal-article/lior-2021-detection/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://asladen.github.io/publication/journal-article/lior-2021-detection/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Preliminary Assessment of Ship Detection and Trajectory Evaluation Using Distributed Acoustic Sensing on an Optical Fiber Telecom Cable</title>
+      <link>https://asladen.github.io/publication/journal-article/rivet-2021-preliminary/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://asladen.github.io/publication/journal-article/rivet-2021-preliminary/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Strain to Ground Motion Conversion of DAS Data for Earthquake Magnitude and Stress Drop Determination</title>
+      <link>https://asladen.github.io/publication/journal-article/lior-2021-strain/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://asladen.github.io/publication/journal-article/lior-2021-strain/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Very Early Identification of a Bimodal Frictional Behavior during the Post-Seismic Phase of the 2015 M w 8.3 Illapel, Chile, Earthquake</title>
+      <link>https://asladen.github.io/publication/journal-article/twardzik-2021-very/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://asladen.github.io/publication/journal-article/twardzik-2021-very/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
     
@@ -210,244 +468,244 @@ $$&lt;/p&gt;
     
     <item>
       <title>Accounting for uncertain fault geometry in earthquake source inversions--II: application to the M w 6.2 Amatrice earthquake, central Italy</title>
-      <link>https://asladen.github.io/publication/content/publication/ragon-2019-accounting/</link>
+      <link>https://asladen.github.io/publication/journal-article/ragon-2019-accounting/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://asladen.github.io/publication/content/publication/ragon-2019-accounting/</guid>
+      <guid>https://asladen.github.io/publication/journal-article/ragon-2019-accounting/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Distributed sensing of earthquakes and ocean-solid Earth interactions on seafloor telecom cables</title>
-      <link>https://asladen.github.io/publication/content/preprint/sladen-2019-distributed/</link>
+      <link>https://asladen.github.io/publication/preprint/sladen-2019-distributed/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://asladen.github.io/publication/content/preprint/sladen-2019-distributed/</guid>
+      <guid>https://asladen.github.io/publication/preprint/sladen-2019-distributed/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Imaging rapid early afterslip of the 2016 Pedernales earthquake, Ecuador</title>
-      <link>https://asladen.github.io/publication/content/publication/tsang-2019-imaging/</link>
+      <link>https://asladen.github.io/publication/journal-article/tsang-2019-imaging/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://asladen.github.io/publication/content/publication/tsang-2019-imaging/</guid>
+      <guid>https://asladen.github.io/publication/journal-article/tsang-2019-imaging/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Unravelling the contribution of early postseismic deformation using sub-daily GNSS positioning</title>
-      <link>https://asladen.github.io/publication/content/publication/twardzik-2019-unravelling/</link>
+      <link>https://asladen.github.io/publication/journal-article/twardzik-2019-unravelling/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://asladen.github.io/publication/content/publication/twardzik-2019-unravelling/</guid>
+      <guid>https://asladen.github.io/publication/journal-article/twardzik-2019-unravelling/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Accounting for uncertain fault geometry in earthquake source inversions--I: theory and simplified application</title>
-      <link>https://asladen.github.io/publication/content/publication/ragon-2018-accounting/</link>
+      <link>https://asladen.github.io/publication/journal-article/ragon-2018-accounting/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://asladen.github.io/publication/content/publication/ragon-2018-accounting/</guid>
+      <guid>https://asladen.github.io/publication/journal-article/ragon-2018-accounting/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Shallow megathrust earthquake ruptures betrayed by their outer-trench aftershocks signature</title>
-      <link>https://asladen.github.io/publication/content/publication/sladen-2018-shallow/</link>
+      <link>https://asladen.github.io/publication/journal-article/sladen-2018-shallow/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://asladen.github.io/publication/content/publication/sladen-2018-shallow/</guid>
+      <guid>https://asladen.github.io/publication/journal-article/sladen-2018-shallow/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Investigating dynamic triggering of seismicity by regional earthquakes: The case of the Corinth Rift (Greece)</title>
-      <link>https://asladen.github.io/publication/content/publication/de-2017-investigating/</link>
+      <link>https://asladen.github.io/publication/journal-article/de-2017-investigating/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://asladen.github.io/publication/content/publication/de-2017-investigating/</guid>
+      <guid>https://asladen.github.io/publication/journal-article/de-2017-investigating/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A Bayesian source model for the 2004 great Sumatra-Andaman earthquake</title>
-      <link>https://asladen.github.io/publication/content/publication/bletery-2016-bayesian/</link>
+      <link>https://asladen.github.io/publication/journal-article/bletery-2016-bayesian/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://asladen.github.io/publication/content/publication/bletery-2016-bayesian/</guid>
+      <guid>https://asladen.github.io/publication/journal-article/bletery-2016-bayesian/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Mega-earthquakes rupture flat megathrusts</title>
-      <link>https://asladen.github.io/publication/content/publication/bletery-2016-mega/</link>
+      <link>https://asladen.github.io/publication/journal-article/bletery-2016-mega/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://asladen.github.io/publication/content/publication/bletery-2016-mega/</guid>
+      <guid>https://asladen.github.io/publication/journal-article/bletery-2016-mega/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Quantification of tsunami bathymetry effect on finite fault slip inversion</title>
-      <link>https://asladen.github.io/publication/content/publication/bletery-2015-quantification/</link>
+      <link>https://asladen.github.io/publication/journal-article/bletery-2015-quantification/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://asladen.github.io/publication/content/publication/bletery-2015-quantification/</guid>
+      <guid>https://asladen.github.io/publication/journal-article/bletery-2015-quantification/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A detailed source model for the Mw9. 0 Tohoku-Oki earthquake reconciling geodesy, seismology, and tsunami records</title>
-      <link>https://asladen.github.io/publication/content/publication/bletery-2014-detailed/</link>
+      <link>https://asladen.github.io/publication/journal-article/bletery-2014-detailed/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://asladen.github.io/publication/content/publication/bletery-2014-detailed/</guid>
+      <guid>https://asladen.github.io/publication/journal-article/bletery-2014-detailed/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Strike-slip earthquakes can also be detected in the ionosphere</title>
-      <link>https://asladen.github.io/publication/content/publication/astafyeva-2014-strike/</link>
+      <link>https://asladen.github.io/publication/journal-article/astafyeva-2014-strike/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://asladen.github.io/publication/content/publication/astafyeva-2014-strike/</guid>
+      <guid>https://asladen.github.io/publication/journal-article/astafyeva-2014-strike/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Coseismic and postseismic slip associated with the 2010 Maule Earthquake, Chile: Characterizing the Arauco Peninsula barrier effect</title>
-      <link>https://asladen.github.io/publication/content/publication/lin-2013-coseismic/</link>
+      <link>https://asladen.github.io/publication/journal-article/lin-2013-coseismic/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
       
-      <guid>https://asladen.github.io/publication/content/publication/lin-2013-coseismic/</guid>
+      <guid>https://asladen.github.io/publication/journal-article/lin-2013-coseismic/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Discriminating the tectonic and non-tectonic contributions in the ionospheric signature of the 2011, Mw7. 1, dip-slip Van earthquake, Eastern Turkey</title>
-      <link>https://asladen.github.io/publication/content/publication/rolland-2013-discriminating/</link>
+      <link>https://asladen.github.io/publication/journal-article/rolland-2013-discriminating/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
       
-      <guid>https://asladen.github.io/publication/content/publication/rolland-2013-discriminating/</guid>
+      <guid>https://asladen.github.io/publication/journal-article/rolland-2013-discriminating/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Kinematic fault slip evolution source models of the 2008 M7. 9 Wenchuan earthquake in China from SAR interferometry, GPS and teleseismic analysis and implications for Longmen Shan tectonics</title>
-      <link>https://asladen.github.io/publication/content/publication/fielding-2013-kinematic/</link>
+      <link>https://asladen.github.io/publication/journal-article/fielding-2013-kinematic/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
       
-      <guid>https://asladen.github.io/publication/content/publication/fielding-2013-kinematic/</guid>
+      <guid>https://asladen.github.io/publication/journal-article/fielding-2013-kinematic/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Superficial simplicity of the 2010 El Mayor--Cucapah earthquake of Baja California in Mexico</title>
-      <link>https://asladen.github.io/publication/content/publication/wei-2011-superficial/</link>
+      <link>https://asladen.github.io/publication/journal-article/wei-2011-superficial/</link>
       <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
       
-      <guid>https://asladen.github.io/publication/content/publication/wei-2011-superficial/</guid>
+      <guid>https://asladen.github.io/publication/journal-article/wei-2011-superficial/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The 2011 magnitude 9.0 Tohoku-Oki earthquake: Mosaicking the megathrust from seconds to centuries</title>
-      <link>https://asladen.github.io/publication/content/publication/simons-20112011/</link>
+      <link>https://asladen.github.io/publication/journal-article/simons-20112011/</link>
       <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
       
-      <guid>https://asladen.github.io/publication/content/publication/simons-20112011/</guid>
+      <guid>https://asladen.github.io/publication/journal-article/simons-20112011/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Kinematic source analysis of the 2003 Tecomán, México, earthquake (Mw 7.6) using teleseismic body waves</title>
-      <link>https://asladen.github.io/publication/content/publication/gomez-2010-kinematic/</link>
+      <link>https://asladen.github.io/publication/journal-article/gomez-2010-kinematic/</link>
       <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
       
-      <guid>https://asladen.github.io/publication/content/publication/gomez-2010-kinematic/</guid>
+      <guid>https://asladen.github.io/publication/journal-article/gomez-2010-kinematic/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Seismic and aseismic slip on the Central Peru megathrust</title>
-      <link>https://asladen.github.io/publication/content/publication/perfettini-2010-seismic/</link>
+      <link>https://asladen.github.io/publication/journal-article/perfettini-2010-seismic/</link>
       <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
       
-      <guid>https://asladen.github.io/publication/content/publication/perfettini-2010-seismic/</guid>
+      <guid>https://asladen.github.io/publication/journal-article/perfettini-2010-seismic/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Partial rupture of a locked patch of the Sumatra megathrust during the 2007 earthquake sequence</title>
-      <link>https://asladen.github.io/publication/content/publication/konca-2008-partial/</link>
+      <link>https://asladen.github.io/publication/journal-article/konca-2008-partial/</link>
       <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
       
-      <guid>https://asladen.github.io/publication/content/publication/konca-2008-partial/</guid>
+      <guid>https://asladen.github.io/publication/journal-article/konca-2008-partial/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Coseismic slip and afterslip of the great M w 9.15 Sumatra--Andaman earthquake of 2004</title>
-      <link>https://asladen.github.io/publication/content/publication/chlieh-2007-coseismic/</link>
+      <link>https://asladen.github.io/publication/journal-article/chlieh-2007-coseismic/</link>
       <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
       
-      <guid>https://asladen.github.io/publication/content/publication/chlieh-2007-coseismic/</guid>
+      <guid>https://asladen.github.io/publication/journal-article/chlieh-2007-coseismic/</guid>
       <description></description>
     </item>
     
     <item>
       <title>L’aléa tsunami en polynésie française: apports de la simulation numérique</title>
-      <link>https://asladen.github.io/publication/content/publication/sladen-2007-alea/</link>
+      <link>https://asladen.github.io/publication/journal-article/sladen-2007-alea/</link>
       <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
       
-      <guid>https://asladen.github.io/publication/content/publication/sladen-2007-alea/</guid>
+      <guid>https://asladen.github.io/publication/journal-article/sladen-2007-alea/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Tsunami hazard in French polynesia: Constraints from numerical modelling</title>
-      <link>https://asladen.github.io/publication/content/publication/sladen-2007-tsunami/</link>
+      <link>https://asladen.github.io/publication/journal-article/sladen-2007-tsunami/</link>
       <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
       
-      <guid>https://asladen.github.io/publication/content/publication/sladen-2007-tsunami/</guid>
+      <guid>https://asladen.github.io/publication/journal-article/sladen-2007-tsunami/</guid>
       <description></description>
     </item>
     
     <item>
       <title>High resolution altimetry reveals new characteristics of the December 2004 Indian Ocean tsunami</title>
-      <link>https://asladen.github.io/publication/content/publication/ablain-2006-high/</link>
+      <link>https://asladen.github.io/publication/journal-article/ablain-2006-high/</link>
       <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
       
-      <guid>https://asladen.github.io/publication/content/publication/ablain-2006-high/</guid>
+      <guid>https://asladen.github.io/publication/journal-article/ablain-2006-high/</guid>
       <description></description>
     </item>
     
     <item>
       <title>L&#39;aléa tsunami en Polynésie française: synthèse des observations et des mesures</title>
-      <link>https://asladen.github.io/publication/content/publication/schindele-2006-alea/</link>
+      <link>https://asladen.github.io/publication/journal-article/schindele-2006-alea/</link>
       <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
       
-      <guid>https://asladen.github.io/publication/content/publication/schindele-2006-alea/</guid>
+      <guid>https://asladen.github.io/publication/journal-article/schindele-2006-alea/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Rodrigues, Mauritius, and Réunion islands field survey after the December 2004 Indian Ocean tsunami</title>
-      <link>https://asladen.github.io/publication/content/publication/okal-2006-rodrigues/</link>
+      <link>https://asladen.github.io/publication/journal-article/okal-2006-rodrigues/</link>
       <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
       
-      <guid>https://asladen.github.io/publication/content/publication/okal-2006-rodrigues/</guid>
+      <guid>https://asladen.github.io/publication/journal-article/okal-2006-rodrigues/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Comprendre et prévenir les tsunamis-: les apports de la simulation numérique</title>
-      <link>https://asladen.github.io/publication/content/publication/hebert-2005-comprendre/</link>
+      <link>https://asladen.github.io/publication/journal-article/hebert-2005-comprendre/</link>
       <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
       
-      <guid>https://asladen.github.io/publication/content/publication/hebert-2005-comprendre/</guid>
+      <guid>https://asladen.github.io/publication/journal-article/hebert-2005-comprendre/</guid>
       <description></description>
     </item>
     

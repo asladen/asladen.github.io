@@ -12,11 +12,35 @@
     
     
     <item>
-      <title>Towards Tsunami Early-Warning with Distributed Acoustic Sensing: Expected Seafloor Strains Induced by Tsunamis</title>
-      <link>https://asladen.github.io/publication/content/preprint/becerril-2024-towards/</link>
+      <title>DAS Sensitivity to Heterogeneity Scales Much Smaller than the Minimum Wavelength</title>
+      <link>https://asladen.github.io/publication/journal-article/capdeville-2024-sensitivity/</link>
       <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://asladen.github.io/publication/content/preprint/becerril-2024-towards/</guid>
+      <guid>https://asladen.github.io/publication/journal-article/capdeville-2024-sensitivity/</guid>
+      <description>&lt;p&gt;This paper delves into the unique characteristics of Distributed Acoustic Sensing (DAS) measurements, particularly their interaction with subsurface heterogeneities that are much smaller than the seismic wavelength. We demonstrate through numerical modeling and theoretical analysis that DAS, which measures strain, exhibits a significantly higher sensitivity to these small-scale features compared to traditional particle velocity measurements.&lt;/p&gt;
+
+&lt;p&gt;This enhanced sensitivity arises from the coupling of strain components to the DAS measurement. Understanding this phenomenon is crucial for both interpreting DAS data accurately and for leveraging this unique sensitivity for new applications in seismology and subsurface imaging.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Non-Intrusive DAS Coexisting in Telecom Networks</title>
+      <link>https://asladen.github.io/publication/journal-article/brenne-2024-non/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://asladen.github.io/publication/journal-article/brenne-2024-non/</guid>
+      <description>&lt;p&gt;This paper details a technique to use Distributed Acoustic Sensing (DAS) on fiber optic cables that are simultaneously carrying live telecom data. The key challenge is to avoid interference between the sensing signals and the data channels. Our approach uses a dedicated wavelength for the DAS interrogator that is outside the standard telecom C-band, allowing both systems to operate in parallel on the same fiber.&lt;/p&gt;
+
+&lt;p&gt;This non-intrusive method unlocks the potential to use the vast global network of existing subsea and terrestrial telecom cables as dense arrays of environmental sensors for monitoring earthquakes, ocean dynamics, and more.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Towards Tsunami Early-Warning with Distributed Acoustic Sensing: Expected Seafloor Strains Induced by Tsunamis</title>
+      <link>https://asladen.github.io/publication/preprint/becerril-2024-towards/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://asladen.github.io/publication/preprint/becerril-2024-towards/</guid>
       <description>&lt;p&gt;This research explores the potential of using seafloor fiber optic cables with Distributed Acoustic Sensing (DAS) for tsunami early warning. We developed numerical models to simulate the strain that a tsunami wave would induce on a seafloor cable.&lt;/p&gt;
 
 &lt;p&gt;Our findings show that DAS is sensitive enough to detect these small deformations, providing a potential new method for real-time tsunami detection far from shore, which could significantly improve warning times.&lt;/p&gt;
