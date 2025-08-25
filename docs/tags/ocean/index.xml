@@ -12,11 +12,11 @@
     
     
     <item>
-      <title>Seafloor thermometry and wave height with fiber optics</title>
-      <link>https://asladen.github.io/project/thermometry_wave/</link>
+      <title>Fiber optics sensing sheds new light on physical ocean processes</title>
+      <link>https://asladen.github.io/project/oceano/</link>
       <pubDate>Tue, 21 May 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://asladen.github.io/project/thermometry_wave/</guid>
+      <guid>https://asladen.github.io/project/oceano/</guid>
       <description>
 
 &lt;p&gt;Seafloor telecommunication cables can be turned into dense arrays of environmental sensors using Distributed Acoustic Sensing (DAS). This project highlights recent work on using these underwater fiber optic cables for high-resolution ocean monitoring, including measuring temperature changes and reconstructing wave heights. This new technology provides unique observations and insight into the physical processes at play in the ocean, with the additional benefit of being able to monitor oceanographic variables in real time.&lt;/p&gt;
@@ -26,16 +26,105 @@
 &lt;p&gt;We have demonstrated that DAS can be used for high-resolution seafloor thermometry: up to mK variations over tens of kilometers with virtual sensors every few meters. This allows for monitoring of internal waves and upwelling events with unprecedented detail.&lt;/p&gt;
 
 &lt;ul&gt;
-&lt;li&gt;Pelaez Quiñones, J. D., Sladen, A., et al. (2023). High resolution seafloor thermometry for internal wave and upwelling monitoring using Distributed Acoustic Sensing. Scientific Reports.&lt;/li&gt;
+&lt;li&gt;Pelaez Quiñones, J. D., Sladen, A., et al. (2023). &lt;a href=&#34;https://www.nature.com/articles/s41598-023-44635-0&#34; target=&#34;_blank&#34;&gt;High resolution seafloor thermometry for internal wave and upwelling monitoring using Distributed Acoustic Sensing&lt;/a&gt;. Scientific Reports.&lt;/li&gt;
 &lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&#34;wave-height.jpg&#34; alt=&#34;Wave height reconstruction from DAS data (black) compared with reference seafloor pressure sensor (red).&#34; title=&#34;Wave height reconstruction from DAS data. Credit: Meulé et al., 2024&#34; /&gt;&lt;/p&gt;
 
 &lt;h2 id=&#34;wave-height-reconstruction&#34;&gt;Wave Height Reconstruction&lt;/h2&gt;
 
 &lt;p&gt;This work demonstrates a method to reconstruct nearshore wave heights from the strain data recorded by seafloor cables, providing valuable data for coastal hazard assessment, oceanographic studies, and realtime marine weather monitoring.&lt;/p&gt;
 
 &lt;ul&gt;
-&lt;li&gt;Meulé, S., Pelaez‐quiñones, J., Bouchette, F., Sladen, A., Ponte, A., Maier, A., &amp;hellip; &amp;amp; Coyle, P. (2024). Reconstruction of Nearshore Surface Gravity Wave Heights From Distributed Acoustic Sensing Data. Earth and Space Science&lt;/li&gt;
+&lt;li&gt;Meulé, S., Pelaez‐quiñones, J., Bouchette, F., Sladen, A., Ponte, A., Maier, A., &amp;hellip; &amp;amp; Coyle, P. (2024). &lt;a href=&#34;https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2024EA003589&#34; target=&#34;_blank&#34;&gt;Reconstruction of Nearshore Surface Gravity Wave Heights From Distributed Acoustic Sensing Data&lt;/a&gt;. Earth and Space Science&lt;/li&gt;
 &lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&#34;currentmeter.jpg&#34; alt=&#34;Comparison of current speed derived from DAS data (dark blue) and a nearby reference current meter (black) on the deep seafloor of the Mediterranean ocean.&#34; title=&#34;Turning seafloor cables into current meters. Credit: Mata et al., 2023&#34; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;deep-sea-current-monitoring&#34;&gt;Deep Sea Current Monitoring&lt;/h2&gt;
+
+&lt;p&gt;By analyzing the vibrations of the cable itself, we can also monitor the speed of deep sea currents flowing over the seafloor cable. These results were validated against a current meter at the end of the cable.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Mata Flores, D., Sladen, A., Ampuero, J. P., Mercerat, E. D., &amp;amp; Rivet, D. (2023). &lt;a href=&#34;https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2022EA002723&#34; target=&#34;_blank&#34;&gt;Monitoring deep sea currents with seafloor distributed acoustic sensing&lt;/a&gt;. Earth and Space Science, 10(6), e2022EA002723.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Mata Flores, D., Mercerat, E. D., Ampuero, J. P., Rivet, D., &amp;amp; Sladen, A. (2023). &lt;a href=&#34;https://academic.oup.com/gji/article-abstract/234/2/1389/7091916&#34; target=&#34;_blank&#34;&gt;Identification of two vibration regimes of underwater fibre optic cables by distributed acoustic sensing&lt;/a&gt;. Geophysical Journal International, 234(2), 1389-1400.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;microseismic-noise-generation&#34;&gt;Microseismic Noise Generation&lt;/h2&gt;
+
+&lt;p&gt;The interaction of ocean gravity waves with the coast generates a continuous seismic hum known as microseismic noise. We use DAS recordings on seafloor cables to quantify this noise generation process and better understand the coupling between the ocean and the solid Earth. The amount of energy reflected at the coast can be used to improve ocean circulation models.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Guerin, G., Rivet, D., van den Ende, M. P. A., Stutzmann, E., Sladen, A., &amp;amp; Ampuero, J. P. (2022). &lt;a href=&#34;https://academic.oup.com/gji/article-abstract/231/1/394/6595879&#34; target=&#34;_blank&#34;&gt;Quantifying microseismic noise generation from coastal reflection of gravity waves recorded by seafloor DAS&lt;/a&gt;. Geophysical Journal International, 231(1), 394-407. &lt;a href=&#34;https://www.researchgate.net/profile/Gauthier-Guerin/publication/361005807_Quantifying_microseismic_noise_generation_from_coastal_reflection_of_gravity_waves_recorded_by_seafloor_DAS/links/62b5ca15dc817901fc78f521/Quantifying-microseismic-noise-generation-from-coastal-reflection-of-gravity-waves-recorded-by-seafloor-DAS.pdf&#34; target=&#34;_blank&#34;&gt;(Pre-print)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Towards Tsunami Early-Warning with Distributed Acoustic Sensing: Expected Seafloor Strains Induced by Tsunamis</title>
+      <link>https://asladen.github.io/publication/content/preprint/becerril-2024-towards/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://asladen.github.io/publication/content/preprint/becerril-2024-towards/</guid>
+      <description>&lt;p&gt;This research explores the potential of using seafloor fiber optic cables with Distributed Acoustic Sensing (DAS) for tsunami early warning. We developed numerical models to simulate the strain that a tsunami wave would induce on a seafloor cable.&lt;/p&gt;
+
+&lt;p&gt;Our findings show that DAS is sensitive enough to detect these small deformations, providing a potential new method for real-time tsunami detection far from shore, which could significantly improve warning times.&lt;/p&gt;
+
+&lt;p&gt;To add an image here, place a file like &lt;code&gt;tsunami-simulation.png&lt;/code&gt; in this folder and use the following Markdown:
+&lt;code&gt;!Simulation of tsunami-induced strain on a seafloor cable&lt;/code&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Earthquake and tsunami monitoring and early-warning with fiber optic cables</title>
+      <link>https://asladen.github.io/project/fiber/</link>
+      <pubDate>Sat, 27 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://asladen.github.io/project/fiber/</guid>
+      <description>&lt;p&gt;In order to address the critical lack of data on the dynamics and physical evolution of the seafloor (coastal erosion, tectonic or volcanic motions, gravitational instabilities, etc.), we are exploring the potential of &lt;a href=&#34;https://en.wikipedia.org/wiki/Fiber_optic_sensor&#34; target=&#34;_blank&#34;&gt;Distributed Fiber-Optic Sensing&lt;/a&gt; (DFOS) technology to complement or improve existing seafloor monitoring techniques.&lt;/p&gt;
+
+&lt;p&gt;DFOS is a revolutionary technique allowing to quantify deformation, temperature and/or acoustic signals typically every few meter of a standard optic fiber cable and over distances of several tenths of kilometers. The physical principle is not new but decades of improvements in the price and performance of the components make it a potential affordable alternative to standard seafloor instrumentation. Compared to traditional electro-mechanical sensors, optical fibers have many advantages: they are passive, lightweight, small, immune to electromagnetic interferences and tolerant to harsh environments (temperature and pressure). Data acquisition is done at the speed of light allowing any new application to become an operational system, and allowing the development of new early-warning systems. With DAS group at the Géoazur lab, we are especially focused on a particular DFOS technology call Distributed Acoustic Sensing (DAS).&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;submarine_cable_map.png&#34; alt=&#34;Seafloor telecom fiber optic cable map&#34; title=&#34;Seafloor fiber optic cable map. Credit:wikipedia&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Thanks to the telecom industry, the seafloors are already largely covered with fiber optic cables. The challenge here is to define the potential of these large infrastructures to provide meaningful geophysical signals measurements despite not being optimized for that.&lt;/p&gt;
+
+&lt;p&gt;Our first steps into the realm of seafloor fiber seismo-acoustic sensing, unveiling the potential of the approach to monitor earthquakes, swell, microseism&amp;hellip;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Sladen, A., Rivet, D., Ampuero, J. P., De Barros, L., Hello, Y., Calbris, G., &amp;amp; Lamare, P. (2019). Distributed sensing of earthquakes and ocean-solid Earth interactions on seafloor telecom cables. &lt;a href=&#34;https://www.nature.com/articles/s41467-019-13793-z&#34; target=&#34;_blank&#34;&gt;Nature communications&lt;/a&gt;, 10(1), 5777.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;!-- 
+**Imagery of the subsurface** and of resonant modes in sedimentary basins:
+
+ * Lior, I., Mercerat, E. D., Rivet, D., Sladen, A., &amp; Ampuero, J. P. (2022). Imaging an underwater basin and its resonance modes using optical fiber distributed acoustic sensing. [Seismological Research Letters](https://pubs.geoscienceworld.org/ssa/srl/article-abstract/93/3/1573/612878), 93(3), 1573-1584. [Pre-print](https://hal.science/hal-03452259/)
+--&gt;
+
+&lt;p&gt;&lt;strong&gt;Earthquake detection&lt;/strong&gt; and potential of the approach for early-warning:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Lior, I., Sladen, A., Rivet, D., Ampuero, J. P., Hello, Y., Becerril, C., &amp;hellip; &amp;amp; Markou, C. (2021). On the detection capabilities of underwater distributed acoustic sensing. &lt;a href=&#34;https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2020jb020925&#34; target=&#34;_blank&#34;&gt;Journal of Geophysical Research: Solid Earth&lt;/a&gt;, 126(3), e2020JB020925.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Lior, I., Sladen, A., Mercerat, D., Ampuero, J. P., Rivet, D., &amp;amp; Sambolian, S. (2021). Strain to ground motion conversion of distributed acoustic sensing data for earthquake magnitude and stress drop determination. &lt;a href=&#34;https://se.copernicus.org/articles/12/1421/2021/&#34; target=&#34;_blank&#34;&gt;Solid Earth&lt;/a&gt;, 12(6), 1421-1442.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Lior, I., Rivet, D., Ampuero, J. P., Sladen, A., Barrientos, S., Sánchez-Olavarría, R., &amp;hellip; &amp;amp; Bustamante Prado, J. A. (2023). Magnitude estimation and ground motion prediction to harness fiber optic distributed acoustic sensing for earthquake early warning. &lt;a href=&#34;https://www.nature.com/articles/s41598-023-27444-3&#34; target=&#34;_blank&#34;&gt;Scientific Reports&lt;/a&gt;, 13(1), 424.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Tsunami detection&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;We are also investigating how DAS can detect the subtle seafloor deformation caused by passing tsunamis, which could lead to new early-warning capabilities.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Becerril, C., Sladen, A., Ampuero, J. P., Vidal-Moreno, P. J., Gonzalez-Herraez, M., Kutschera, F., &amp;hellip; &amp;amp; Bouchette, F. (2024). &lt;a href=&#34;https://essopenarchive.org/doi/full/10.22541/essoar.171052484.46251426&#34; target=&#34;_blank&#34;&gt;Towards tsunami early-warning with Distributed Acoustic Sensing: Expected seafloor strains induced by tsunamis&lt;/a&gt;. Authorea Preprints.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;!--
+### Dedicated fiber optic cables
+
+In many cases, places of geophysical interest might not be covered with optical fiber cables. The thick armored cables used by the telecom industry are too expensive for academic applications. Instead, we are developing a lightweight plow to trench thin fiber optic cables inside the sediments of the seafloor. Trenching the cable allows to improve the coupling and protect the thin cable from fishing activities. Our plow system was first tested and validated in 2018 offshore the Nice airport, France. The first deployment of fiber optic cables is scheduled in the same area in 2019. The area offshore the Nice airport is both a convenient local test site but also an area of great scientific and societal interest: the seafloor shows many signs of fluid seepage and the steep slopes might be prone to destabilization; in 1979, a submarine landslide triggered a [local tsunami](https://en.wikipedia.org/wiki/1979_nice_tsunami).
+--&gt; 
 </description>
     </item>
     

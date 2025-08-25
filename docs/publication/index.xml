@@ -6,10 +6,35 @@
     <description>Recent content in Publications on Anthony Sladen&#39;s webpage</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://asladen.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>First Installation of an Optical Ocean-Bottom Seismometer, Cabled Offshore Les Saintes, Lesser Antilles</title>
+      <link>https://asladen.github.io/publication/content/publication/bernard-2024-first/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://asladen.github.io/publication/content/publication/bernard-2024-first/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Towards Tsunami Early-Warning with Distributed Acoustic Sensing: Expected Seafloor Strains Induced by Tsunamis</title>
+      <link>https://asladen.github.io/publication/content/preprint/becerril-2024-towards/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://asladen.github.io/publication/content/preprint/becerril-2024-towards/</guid>
+      <description>&lt;p&gt;This research explores the potential of using seafloor fiber optic cables with Distributed Acoustic Sensing (DAS) for tsunami early warning. We developed numerical models to simulate the strain that a tsunami wave would induce on a seafloor cable.&lt;/p&gt;
+
+&lt;p&gt;Our findings show that DAS is sensitive enough to detect these small deformations, providing a potential new method for real-time tsunami detection far from shore, which could significantly improve warning times.&lt;/p&gt;
+
+&lt;p&gt;To add an image here, place a file like &lt;code&gt;tsunami-simulation.png&lt;/code&gt; in this folder and use the following Markdown:
+&lt;code&gt;!Simulation of tsunami-induced strain on a seafloor cable&lt;/code&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Accounting for uncertain fault geometry in earthquake source inversions--II: application to the M w 6.2 Amatrice earthquake, central Italy</title>
@@ -369,6 +394,58 @@
       
       <guid>https://asladen.github.io/publication/content/publication/hebert-2005-comprendre/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://asladen.github.io/publication/howto-bib3md/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://asladen.github.io/publication/howto-bib3md/</guid>
+      <description>
+
+&lt;h1 id=&#34;how-to-import-publications-from-a-bibtex-file&#34;&gt;How to import publications from a BibTeX file&lt;/h1&gt;
+
+&lt;h1 id=&#34;the-academic-theme-for-hugo-uses-individual-markdown-md-files-for-each-publication-rather-than-reading-directly-from-a-bibtex-bib-file-to-convert-your-bib-file-into-the-correct-format-you-can-use-the-academic-command-line-tool&#34;&gt;The Academic theme for Hugo uses individual Markdown (.md) files for each publication, rather than reading directly from a BibTeX (.bib) file. To convert your &lt;code&gt;.bib&lt;/code&gt; file into the correct format, you can use the &lt;code&gt;academic&lt;/code&gt; command-line tool.&lt;/h1&gt;
+
+&lt;h2 id=&#34;1-install-the-academic-tool&#34;&gt;1. Install the Academic tool&lt;/h2&gt;
+
+&lt;p&gt;The &lt;code&gt;academic&lt;/code&gt; command is a Python tool. If you haven&amp;rsquo;t installed it yet, open your terminal and run:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;pip install -U academic
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;&lt;em&gt;Note: Depending on your Python installation, you may need to use &lt;code&gt;pip3&lt;/code&gt; instead of &lt;code&gt;pip&lt;/code&gt;.&lt;/em&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;2-prepare-your-bibtex-file&#34;&gt;2. Prepare your BibTeX file&lt;/h2&gt;
+
+&lt;p&gt;Make sure you have a BibTeX file (e.g., &lt;code&gt;my_publications.bib&lt;/code&gt;) with the articles you want to add to your website.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;A safe workflow for adding new publications is to create a BibTeX file that contains &lt;em&gt;only&lt;/em&gt; the new references you want to import.&lt;/strong&gt; This prevents any possibility of accidentally overwriting existing publication files.&lt;/p&gt;
+
+&lt;h2 id=&#34;3-run-the-import-command&#34;&gt;3. Run the import command&lt;/h2&gt;
+
+&lt;p&gt;Navigate to the root of your website in your terminal. For your project, this is:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;cd /home/sladen/doc/inprogress/webpage/website/
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Then, run the &lt;code&gt;academic import&lt;/code&gt; command, pointing it to your BibTeX file. For example, if your file is in the website root:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;academic import --bibtex my_publications.bib
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;This will create a new Markdown file for each entry in your BibTeX file inside the &lt;code&gt;content/publication/&lt;/code&gt; directory.&lt;/p&gt;
+
+&lt;h2 id=&#34;optional-arguments&#34;&gt;Optional arguments&lt;/h2&gt;
+
+&lt;p&gt;You can use several options to customize the import process:
+-   &lt;code&gt;--help&lt;/code&gt;: Show the help message.
+-   &lt;code&gt;--featured&lt;/code&gt;: Flag publications as featured (to appear in the &amp;ldquo;Featured Publications&amp;rdquo; widget).
+-   &lt;code&gt;--overwrite&lt;/code&gt;: Overwrite existing publication files if they already exist.
+-   &lt;code&gt;--publication-dir &amp;lt;DIR&amp;gt;&lt;/code&gt;: Specify a different directory for publications (defaults to &lt;code&gt;content/publication&lt;/code&gt;).
+-   &lt;code&gt;--normalize&lt;/code&gt;: Normalize tags by converting them to lowercase and capitalizing the first letter.&lt;/p&gt;
+</description>
     </item>
     
   </channel>

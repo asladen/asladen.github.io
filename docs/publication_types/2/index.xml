@@ -6,10 +6,35 @@
     <description>Recent content in 2 on Anthony Sladen&#39;s webpage</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://asladen.github.io/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>First Installation of an Optical Ocean-Bottom Seismometer, Cabled Offshore Les Saintes, Lesser Antilles</title>
+      <link>https://asladen.github.io/publication/content/publication/bernard-2024-first/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://asladen.github.io/publication/content/publication/bernard-2024-first/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Towards Tsunami Early-Warning with Distributed Acoustic Sensing: Expected Seafloor Strains Induced by Tsunamis</title>
+      <link>https://asladen.github.io/publication/content/preprint/becerril-2024-towards/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://asladen.github.io/publication/content/preprint/becerril-2024-towards/</guid>
+      <description>&lt;p&gt;This research explores the potential of using seafloor fiber optic cables with Distributed Acoustic Sensing (DAS) for tsunami early warning. We developed numerical models to simulate the strain that a tsunami wave would induce on a seafloor cable.&lt;/p&gt;
+
+&lt;p&gt;Our findings show that DAS is sensitive enough to detect these small deformations, providing a potential new method for real-time tsunami detection far from shore, which could significantly improve warning times.&lt;/p&gt;
+
+&lt;p&gt;To add an image here, place a file like &lt;code&gt;tsunami-simulation.png&lt;/code&gt; in this folder and use the following Markdown:
+&lt;code&gt;!Simulation of tsunami-induced strain on a seafloor cable&lt;/code&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Accounting for uncertain fault geometry in earthquake source inversions--II: application to the M w 6.2 Amatrice earthquake, central Italy</title>

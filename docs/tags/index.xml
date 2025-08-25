@@ -21,11 +21,20 @@
     </item>
     
     <item>
-      <title>oceano</title>
-      <link>https://asladen.github.io/tags/oceano/</link>
+      <title>ocean</title>
+      <link>https://asladen.github.io/tags/ocean/</link>
       <pubDate>Tue, 21 May 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://asladen.github.io/tags/oceano/</guid>
+      <guid>https://asladen.github.io/tags/ocean/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>eq</title>
+      <link>https://asladen.github.io/tags/eq/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://asladen.github.io/tags/eq/</guid>
       <description></description>
     </item>
     
@@ -62,33 +71,6 @@
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       
       <guid>https://asladen.github.io/tags/eq_src-cycle/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>eq</title>
-      <link>https://asladen.github.io/tags/eq/</link>
-      <pubDate>Fri, 27 Apr 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://asladen.github.io/tags/eq/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>cycle</title>
-      <link>https://asladen.github.io/tags/cycle/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://asladen.github.io/tags/cycle/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>eq_src</title>
-      <link>https://asladen.github.io/tags/eq_src/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://asladen.github.io/tags/eq_src/</guid>
       <description></description>
     </item>
     

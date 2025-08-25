@@ -6,10 +6,25 @@
     <description>Recent content in Jean-Paul Ampuero on Anthony Sladen&#39;s webpage</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 05 Feb 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://asladen.github.io/authors/jean-paul-ampuero/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Towards Tsunami Early-Warning with Distributed Acoustic Sensing: Expected Seafloor Strains Induced by Tsunamis</title>
+      <link>https://asladen.github.io/publication/content/preprint/becerril-2024-towards/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://asladen.github.io/publication/content/preprint/becerril-2024-towards/</guid>
+      <description>&lt;p&gt;This research explores the potential of using seafloor fiber optic cables with Distributed Acoustic Sensing (DAS) for tsunami early warning. We developed numerical models to simulate the strain that a tsunami wave would induce on a seafloor cable.&lt;/p&gt;
+
+&lt;p&gt;Our findings show that DAS is sensitive enough to detect these small deformations, providing a potential new method for real-time tsunami detection far from shore, which could significantly improve warning times.&lt;/p&gt;
+
+&lt;p&gt;To add an image here, place a file like &lt;code&gt;tsunami-simulation.png&lt;/code&gt; in this folder and use the following Markdown:
+&lt;code&gt;!Simulation of tsunami-induced strain on a seafloor cable&lt;/code&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Slides</title>

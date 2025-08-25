@@ -6,10 +6,77 @@
     <description>Recent content in eq on Anthony Sladen&#39;s webpage</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 27 Apr 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://asladen.github.io/tags/eq/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Towards Tsunami Early-Warning with Distributed Acoustic Sensing: Expected Seafloor Strains Induced by Tsunamis</title>
+      <link>https://asladen.github.io/publication/content/preprint/becerril-2024-towards/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://asladen.github.io/publication/content/preprint/becerril-2024-towards/</guid>
+      <description>&lt;p&gt;This research explores the potential of using seafloor fiber optic cables with Distributed Acoustic Sensing (DAS) for tsunami early warning. We developed numerical models to simulate the strain that a tsunami wave would induce on a seafloor cable.&lt;/p&gt;
+
+&lt;p&gt;Our findings show that DAS is sensitive enough to detect these small deformations, providing a potential new method for real-time tsunami detection far from shore, which could significantly improve warning times.&lt;/p&gt;
+
+&lt;p&gt;To add an image here, place a file like &lt;code&gt;tsunami-simulation.png&lt;/code&gt; in this folder and use the following Markdown:
+&lt;code&gt;!Simulation of tsunami-induced strain on a seafloor cable&lt;/code&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Earthquake and tsunami monitoring and early-warning with fiber optic cables</title>
+      <link>https://asladen.github.io/project/fiber/</link>
+      <pubDate>Sat, 27 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://asladen.github.io/project/fiber/</guid>
+      <description>&lt;p&gt;In order to address the critical lack of data on the dynamics and physical evolution of the seafloor (coastal erosion, tectonic or volcanic motions, gravitational instabilities, etc.), we are exploring the potential of &lt;a href=&#34;https://en.wikipedia.org/wiki/Fiber_optic_sensor&#34; target=&#34;_blank&#34;&gt;Distributed Fiber-Optic Sensing&lt;/a&gt; (DFOS) technology to complement or improve existing seafloor monitoring techniques.&lt;/p&gt;
+
+&lt;p&gt;DFOS is a revolutionary technique allowing to quantify deformation, temperature and/or acoustic signals typically every few meter of a standard optic fiber cable and over distances of several tenths of kilometers. The physical principle is not new but decades of improvements in the price and performance of the components make it a potential affordable alternative to standard seafloor instrumentation. Compared to traditional electro-mechanical sensors, optical fibers have many advantages: they are passive, lightweight, small, immune to electromagnetic interferences and tolerant to harsh environments (temperature and pressure). Data acquisition is done at the speed of light allowing any new application to become an operational system, and allowing the development of new early-warning systems. With DAS group at the Géoazur lab, we are especially focused on a particular DFOS technology call Distributed Acoustic Sensing (DAS).&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;submarine_cable_map.png&#34; alt=&#34;Seafloor telecom fiber optic cable map&#34; title=&#34;Seafloor fiber optic cable map. Credit:wikipedia&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Thanks to the telecom industry, the seafloors are already largely covered with fiber optic cables. The challenge here is to define the potential of these large infrastructures to provide meaningful geophysical signals measurements despite not being optimized for that.&lt;/p&gt;
+
+&lt;p&gt;Our first steps into the realm of seafloor fiber seismo-acoustic sensing, unveiling the potential of the approach to monitor earthquakes, swell, microseism&amp;hellip;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Sladen, A., Rivet, D., Ampuero, J. P., De Barros, L., Hello, Y., Calbris, G., &amp;amp; Lamare, P. (2019). Distributed sensing of earthquakes and ocean-solid Earth interactions on seafloor telecom cables. &lt;a href=&#34;https://www.nature.com/articles/s41467-019-13793-z&#34; target=&#34;_blank&#34;&gt;Nature communications&lt;/a&gt;, 10(1), 5777.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;!-- 
+**Imagery of the subsurface** and of resonant modes in sedimentary basins:
+
+ * Lior, I., Mercerat, E. D., Rivet, D., Sladen, A., &amp; Ampuero, J. P. (2022). Imaging an underwater basin and its resonance modes using optical fiber distributed acoustic sensing. [Seismological Research Letters](https://pubs.geoscienceworld.org/ssa/srl/article-abstract/93/3/1573/612878), 93(3), 1573-1584. [Pre-print](https://hal.science/hal-03452259/)
+--&gt;
+
+&lt;p&gt;&lt;strong&gt;Earthquake detection&lt;/strong&gt; and potential of the approach for early-warning:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Lior, I., Sladen, A., Rivet, D., Ampuero, J. P., Hello, Y., Becerril, C., &amp;hellip; &amp;amp; Markou, C. (2021). On the detection capabilities of underwater distributed acoustic sensing. &lt;a href=&#34;https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2020jb020925&#34; target=&#34;_blank&#34;&gt;Journal of Geophysical Research: Solid Earth&lt;/a&gt;, 126(3), e2020JB020925.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Lior, I., Sladen, A., Mercerat, D., Ampuero, J. P., Rivet, D., &amp;amp; Sambolian, S. (2021). Strain to ground motion conversion of distributed acoustic sensing data for earthquake magnitude and stress drop determination. &lt;a href=&#34;https://se.copernicus.org/articles/12/1421/2021/&#34; target=&#34;_blank&#34;&gt;Solid Earth&lt;/a&gt;, 12(6), 1421-1442.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Lior, I., Rivet, D., Ampuero, J. P., Sladen, A., Barrientos, S., Sánchez-Olavarría, R., &amp;hellip; &amp;amp; Bustamante Prado, J. A. (2023). Magnitude estimation and ground motion prediction to harness fiber optic distributed acoustic sensing for earthquake early warning. &lt;a href=&#34;https://www.nature.com/articles/s41598-023-27444-3&#34; target=&#34;_blank&#34;&gt;Scientific Reports&lt;/a&gt;, 13(1), 424.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Tsunami detection&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;We are also investigating how DAS can detect the subtle seafloor deformation caused by passing tsunamis, which could lead to new early-warning capabilities.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Becerril, C., Sladen, A., Ampuero, J. P., Vidal-Moreno, P. J., Gonzalez-Herraez, M., Kutschera, F., &amp;hellip; &amp;amp; Bouchette, F. (2024). &lt;a href=&#34;https://essopenarchive.org/doi/full/10.22541/essoar.171052484.46251426&#34; target=&#34;_blank&#34;&gt;Towards tsunami early-warning with Distributed Acoustic Sensing: Expected seafloor strains induced by tsunamis&lt;/a&gt;. Authorea Preprints.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;!--
+### Dedicated fiber optic cables
+
+In many cases, places of geophysical interest might not be covered with optical fiber cables. The thick armored cables used by the telecom industry are too expensive for academic applications. Instead, we are developing a lightweight plow to trench thin fiber optic cables inside the sediments of the seafloor. Trenching the cable allows to improve the coupling and protect the thin cable from fishing activities. Our plow system was first tested and validated in 2018 offshore the Nice airport, France. The first deployment of fiber optic cables is scheduled in the same area in 2019. The area offshore the Nice airport is both a convenient local test site but also an area of great scientific and societal interest: the seafloor shows many signs of fluid seepage and the steep slopes might be prone to destabilization; in 1979, a submarine landslide triggered a [local tsunami](https://en.wikipedia.org/wiki/1979_nice_tsunami).
+--&gt; 
+</description>
+    </item>
     
     <item>
       <title>Outer-rise seismicity</title>
@@ -18,6 +85,55 @@
       
       <guid>https://asladen.github.io/project/outer-rise/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Project E-POST</title>
+      <link>https://asladen.github.io/project/epost/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://asladen.github.io/project/epost/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The earthquake source</title>
+      <link>https://asladen.github.io/project/eq_src/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://asladen.github.io/project/eq_src/</guid>
+      <description>&lt;p&gt;Since the first high quality seismograms and the development of theoretical models in the
+1960s, it is established that earthquakes ruptures are complex (e.g. Archuleta and Frazier,
+1978; Das and Kostrov, 1990). Over the few seconds or minutes of its duration, earthquake
+ruptures can go through various stages of acceleration, arrest, large slip or no slip. Given our
+inability to directly measure what is happening on the fault, remote imagery of fault slip evolution
+on the fault is a key element to understand what controls earthquake ruptures. It is also a
+necessary step towards a finer description of the seismic cycle (how ruptures repeat over time),
+and the prediction of generated ground motions (what causes building destruction and tsunami
+waves).&lt;/p&gt;
+
+&lt;p&gt;Hundreds of studies have investigated this complexity using data, first mostly relying on data
+from the global seismic networks and then, around the 1990s, using satellite based technologies such as
+&lt;a href=&#34;https://www.gsa.europa.eu/european-gnss/what-gnss&#34; target=&#34;_blank&#34;&gt;GNSS&lt;/a&gt;, &lt;a href=&#34;https://en.wikipedia.org/wiki/Interferometric_synthetic-aperture_radar&#34; target=&#34;_blank&#34;&gt;InSAR&lt;/a&gt; or &lt;a href=&#34;http://www.tectonics.caltech.edu/slip_history/spot_coseis/index.html&#34; target=&#34;_blank&#34;&gt;optical imagery&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Despite the continuous development of instrumentation, earthquake ruptures (and by extension any slip episode on a fault) remain challenging to image:
+signals are always recorded at the surface, spatial and/or temporal resolution of data is usually limited,
+data might be biased (e.g. collected one month after the earthquake), our knowledge of the Earth structure is often limited, as well as the physics of the
+processes involved.
+To address these issues, my collaborators and I, have developped different methodological approaches to address a number of limitations:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;incorporate more data, of different types and sensitivies&lt;/strong&gt;. In the case of well instrumented earthquakes, our description of earthquake rupture can be based on teleseismic data, near-field strong motion, tsunami, GPS, radar images and/or optical images (e.g. Bletery et al.,2014),&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;analyze data with probabilistic (Bayesian) algorithms&lt;/strong&gt;. This formalism limits the amount of ad hoc assumptions (e.g. regularisation, imposing a priori information which is not well defined), and allows to estimate uncertainties on our final models (e.g. Simons et al., 2011; Bletery et al., 2016),&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;devise a formalism to acknowledge model (epistemic) uncertainties&lt;/strong&gt;. We show that this type of development leads to more robust images of fault slip history. It is a necessary approach given that our knowledge of the Earth structure will always be, at least to some extent, limited (e.g. Ragon et al., 2018),&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;explicitely account for limitations of the measurements&lt;/strong&gt;. Very often, data are acquired at the wrong time, with limited spatial coverage, or else. By developping strategies to acknowledge these limitations, it is possible to improve the robutness, and sometimes resolution, of the sought-after model (e.g. Bletery et al., 2018; Ragon et al., 2019),&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;move towards more advanced physics (forward problem)&lt;/strong&gt;, when possible and useful. Within the PhD project of &lt;a href=&#34;https://www.researchgate.net/profile/Hector_Perez_Alemany&#34; target=&#34;_blank&#34;&gt;Hector Alemany&lt;/a&gt;, and in collaboration with &lt;a href=&#34;https://www.researchgate.net/profile/Vadim_Monteiller&#34; target=&#34;_blank&#34;&gt;Vadim Monteiller&lt;/a&gt;, earthquake wave simulation in 3D complex media.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
     </item>
     
   </channel>
