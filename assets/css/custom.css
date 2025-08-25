@@ -2,3 +2,24 @@
 .share-btn-whatsapp {
   display: none !important;
 }
+
+/*
+ * Fix for featured image captions overlapping the image.
+ * This makes the caption appear below the image instead of overlaid.
+ */
+.featured-image-wrapper .article-header-caption {
+  position: static !important; /* Override absolute positioning to allow natural flow */
+  width: auto !important; /* Let it take natural width */
+  text-align: center !important; /* Center the text */
+  background: none !important; /* Remove the black background overlay */
+  color: inherit !important; /* Inherit text color from the main content */
+  padding: 10px 20px !important; /* Add some vertical padding, match content horizontal padding */
+  opacity: 1 !important; /* Ensure it's fully visible */
+  border-radius: 0 !important; /* Remove any border radius */
+  box-sizing: border-box; /* Include padding in the element's total width/height */
+}
+
+/* Ensure the image wrapper doesn't have extra bottom padding that separates image and caption */
+.featured-image-wrapper {
+  padding-bottom: 0 !important;
+}

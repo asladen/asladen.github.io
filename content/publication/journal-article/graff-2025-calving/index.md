@@ -67,7 +67,7 @@ url_publication: 'https://doi.org/10.1038/s41586-025-09347-7'
 # Publication image
 # Add an image named `featured.jpg/png` to your page's folder then add a caption below.
 image:
-  caption: 'Glacier fracturing is observed by fibre sensing through its acoustic signature travelling through the fjord waters (1). Fracturing events coalesce into iceberg detachments that emit interface waves propagating along the seafloor (2). These detachments excite calving-induced tsunamis at the water surface that cause pressure perturbations along the fibre-optic cable (3). Calving-induced IGWs in the stratified fjord waters cause temperature variations at a given depth (4). Calved-off icebergs drift away from the glacier terminus and drag internal wave wakes behind them, which cause seafloor cooling by vertically displacing the stratified fjord waters (5). The internal wave wakes cause transient enhanced seafloor currents that generate vibrations in the cable through vortex shedding (6). Finally, icebergs disintegrate by fracturing, again detected by fibre sensing through its acoustic signals (7).'
+  caption: 'Glacier fracturing is observed by fibre sensing through its acoustic signature travelling through the fjord waters.'
   focal_point: 'Smart'
   preview_only: false
 
