@@ -94,6 +94,6 @@ user_groups:
 ---
 
 Welcome! I'm a CNRS researcher with a background in geophysics, working at [Géoazur](https://geoazur.oca.eu), the Earth Science laboratory of [University Côte d'Azur](http://univ-cotedazur.fr/en) and the [Côte d'Azur Observatory](https://www.oca.eu/en/). <br>
-My current research focuses on using fiber optic sensing, particularly Distributed Acoustic Sensing (DAS), to leverage existing telecom cables and shed new light on geophysical and environmental processes. <br>
+My research journey began with a deep dive into the mechanics of earthquakes, particularly on the imagery of what happens during the largest seismic events. More recently, I've pivoted to a new and exciting frontier: using photonic technology, and Distributed Acoustic Sensing (DAS) in particular, to turn existing fiber optic telecom cables into a vast network of environmental sensors: seismic, acoustic, temperature... This approach is providing unprecedented insights into various geophysical and environmental processes.<br>
 
 At Géoazur, and within our dynamic Seismology teams ([Seismic Cycle](https://geoazur.oca.eu/fr/rech-seicy-geoazur) and [Hazard & Risk](https://geoazur.oca.eu/fr/rech-sar-geoazur)), we often have opportunities for student internships and visitors, so feel free to contact us.
