@@ -13,4 +13,6 @@ We are pleased to announce that our paper, "Estimating sound pressure levels fro
 
 This study presents a novel method for calibrating Distributed Acoustic Sensing (DAS) data using fin whale calls, enabling quantitative underwater acoustic measurements. This is a significant step forward for using fiber optic cables for marine bioacoustics and hydroacoustic applications in general.
 
-You can find more details on our [publication page](/publication/journal-article/bouffaut-2025-estimating/).
+[Read the full paper here (PDF)](bouffaut-2025-jasa.pdf)
+
+You can also find more details on our [publication page](/publication/journal-article/bouffaut-2025-estimating/).
