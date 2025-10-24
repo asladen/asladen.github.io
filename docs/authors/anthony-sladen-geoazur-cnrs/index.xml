@@ -17,11 +17,43 @@
       <pubDate>Mon, 15 Sep 2025 00:00:00 +0000</pubDate>
       
       <guid>https://asladen.github.io/post/2025-eceiza-das-fish-monitoring/</guid>
-      <description>&lt;p&gt;We present a field trial demonstrating the potential of distributed acoustic sensing (DAS) for passive acoustic monitoring of fishes, with a bespoke fiber‑optic cable deployed off the coast of Monaco. The study focuses on three Mediterranean species with distinct reproductive acoustic signatures: Ophidion rochei, Sciaena umbra and Epinephelus marginatus. DAS recordings show species‑specific patterns consistent with known behaviors and validated by simultaneous hydrophone recordings. Thanks to its high spatial sampling density, DAS allows isolation and localisation of individual sounds over tens of metres and assessment of ambient noise levels. While the DAS configuration used here may not match hydrophones above ~1 kHz, the approach offers strong advantages for long‑term, wide‑area monitoring relevant to conservation under climate change.&lt;/p&gt;
+      <description>
 
-&lt;p&gt;Preprint (HAL): &lt;a href=&#34;https://hal.science/hal-05293208/&#34; target=&#34;_blank&#34;&gt;https://hal.science/hal-05293208/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Did you know that we still know little about the vast underwater soundscape? It&amp;rsquo;s estimated that thousands of fish species are soniferous—meaning they actively make sounds—and some studies suggest that over a third of all fish species communicate acoustically. Yet, probably close to 90% of fish bioacoustics remains undocumented. We’re essentially deaf to most of the ocean&amp;rsquo;s conversations.&lt;/p&gt;
 
-&lt;p&gt;Work made possible thanks to the collaboration with Monaco authorities and the Museum of Oceanography, and to the contribution of the startup COSMA (&lt;a href=&#34;https://cosma.tech&#34; target=&#34;_blank&#34;&gt;https://cosma.tech&lt;/a&gt;). This work is a contribution to the DEEP-C (&lt;a href=&#34;https://www.marmor-project.org/Activities/Activity-1/DEEP-C-an-innovation-partnership-between-the-MARMOR-community-and-start-up-COSMA&#34; target=&#34;_blank&#34;&gt;https://www.marmor-project.org/Activities/Activity-1/DEEP-C-an-innovation-partnership-between-the-MARMOR-community-and-start-up-COSMA&lt;/a&gt;) and D-LIGHT projects (&lt;a href=&#34;https://www.cnrs.fr/en/our-research/france-2030/ri2-d-light&#34; target=&#34;_blank&#34;&gt;https://www.cnrs.fr/en/our-research/france-2030/ri2-d-light&lt;/a&gt;).&lt;/p&gt;
+&lt;p&gt;This knowledge gap is critical because sound is essential for fish life—it&amp;rsquo;s how they find mates, defend territory, and avoid predators.&lt;/p&gt;
+
+&lt;p&gt;One problem is the tool: traditional Passive Acoustic Monitoring (PAM). Using hydrophones to listen is limited for dense and large-scale study because deploying and maintaining hydrophones for long-term observation is costly and logistically cumbersome.A hydrophone is &amp;ldquo;only&amp;rdquo; one tiny ear in a vast ocean.&lt;/p&gt;
+
+&lt;p&gt;With colleagues, we demonstrate that one potential solution is already out there: Distributed Acoustic Sensing (DAS). We took a standard fiber-optic cable and turned it into a dense array of virtual acoustic sensors, effectively giving us an &amp;ldquo;ear&amp;rdquo; every single meter of the cable. In our field trial off the coast of Monaco, the results show that we can obtain:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Reliable Detection: The DAS cable reliably detected and differentiated the specific calls of three major Mediterranean sound-producing species: the Brown Meagre, Dusky Grouper, and Roches&amp;rsquo; Ophidion.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Spatial Mapping: Crucially, the high-density sensing allowed us to move beyond simple detection and create spatio-temporal maps of fish activity. This means we can actually track where the fish are &amp;ldquo;talking&amp;rdquo; and when.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;audio-video-examples&#34;&gt;Audio / Video examples&lt;/h2&gt;
+
+&lt;p&gt;Below are two short clips recorded during the trial (files located in this post folder).&lt;/p&gt;
+
+&lt;video controls preload=&#34;metadata&#34; width=&#34;100%&#34;&gt;
+  &lt;source src=&#34;LT_call.mp4&#34; type=&#34;video/mp4&#34;&gt;
+  Your browser does not support the video tag.
+&lt;/video&gt;
+
+&lt;p&gt;&lt;em&gt;LT_call.mp4 — unclear source; waveform and spectrotemporal features suggest it could be emitted by a grouper (Epinephelus marginatus).&lt;/em&gt;&lt;/p&gt;
+
+&lt;video controls preload=&#34;metadata&#34; width=&#34;100%&#34;&gt;
+  &lt;source src=&#34;merou_grognement.mp4&#34; type=&#34;video/mp4&#34;&gt;
+  Your browser does not support the video tag.
+&lt;/video&gt;
+
+&lt;p&gt;&lt;em&gt;merou_grognement.mp4 — characteristic growl sound made by grouper (Epinephelus marginatus).&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;For the full story, check our preprint (HAL): &lt;a href=&#34;https://hal.science/hal-05293208/&#34; target=&#34;_blank&#34;&gt;https://hal.science/hal-05293208/&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;This work was made possible thanks to the collaboration with Monaco authorities and the Museum of Oceanography, and to the contribution of the startup COSMA (&lt;a href=&#34;https://cosma.tech&#34; target=&#34;_blank&#34;&gt;https://cosma.tech&lt;/a&gt;). This work is a contribution to the DEEP-C (&lt;a href=&#34;https://www.marmor-project.org/Activities/Activity-1/DEEP-C-an-innovation-partnership-between-the-MARMOR-community-and-start-up-COSMA&#34; target=&#34;_blank&#34;&gt;https://www.marmor-project.org/Activities/Activity-1/DEEP-C-an-innovation-partnership-between-the-MARMOR-community-and-start-up-COSMA&lt;/a&gt;) and D-LIGHT projects (&lt;a href=&#34;https://www.cnrs.fr/en/our-research/france-2030/ri2-d-light&#34; target=&#34;_blank&#34;&gt;https://www.cnrs.fr/en/our-research/france-2030/ri2-d-light&lt;/a&gt;).&lt;/p&gt;
 </description>
     </item>
     
