@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Frédéric Mittaine (Cosma) on Anthony Sladen&#39;s webpage</title>
+    <link>https://asladen.github.io/authors/frederic-mittaine-cosma/</link>
+    <description>Recent content in Frédéric Mittaine (Cosma) on Anthony Sladen&#39;s webpage</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 15 Sep 2025 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="https://asladen.github.io/authors/frederic-mittaine-cosma/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Demonstrating the potential of DAS for fish monitoring (preprint)</title>
+      <link>https://asladen.github.io/post/2025-eceiza-das-fish-monitoring/</link>
+      <pubDate>Mon, 15 Sep 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://asladen.github.io/post/2025-eceiza-das-fish-monitoring/</guid>
+      <description>&lt;p&gt;We present a field trial demonstrating the potential of distributed acoustic sensing (DAS) for passive acoustic monitoring of fishes, with a bespoke fiber‑optic cable deployed off the coast of Monaco. The study focuses on three Mediterranean species with distinct reproductive acoustic signatures: Ophidion rochei, Sciaena umbra and Epinephelus marginatus. DAS recordings show species‑specific patterns consistent with known behaviors and validated by simultaneous hydrophone recordings. Thanks to its high spatial sampling density, DAS allows isolation and localisation of individual sounds over tens of metres and assessment of ambient noise levels. While the DAS configuration used here may not match hydrophones above ~1 kHz, the approach offers strong advantages for long‑term, wide‑area monitoring relevant to conservation under climate change.&lt;/p&gt;
+
+&lt;p&gt;Preprint (HAL): &lt;a href=&#34;https://hal.science/hal-05293208/&#34; target=&#34;_blank&#34;&gt;https://hal.science/hal-05293208/&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Work made possible thanks to the collaboration with Monaco authorities and the Museum of Oceanography, and to the contribution of the startup COSMA (&lt;a href=&#34;https://cosma.tech&#34; target=&#34;_blank&#34;&gt;https://cosma.tech&lt;/a&gt;). This work is a contribution to the DEEP-C (&lt;a href=&#34;https://www.marmor-project.org/Activities/Activity-1/DEEP-C-an-innovation-partnership-between-the-MARMOR-community-and-start-up-COSMA&#34; target=&#34;_blank&#34;&gt;https://www.marmor-project.org/Activities/Activity-1/DEEP-C-an-innovation-partnership-between-the-MARMOR-community-and-start-up-COSMA&lt;/a&gt;) and D-LIGHT projects (&lt;a href=&#34;https://www.cnrs.fr/en/our-research/france-2030/ri2-d-light&#34; target=&#34;_blank&#34;&gt;https://www.cnrs.fr/en/our-research/france-2030/ri2-d-light&lt;/a&gt;).&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
