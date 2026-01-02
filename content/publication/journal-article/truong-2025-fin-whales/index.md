@@ -76,9 +76,9 @@ tags:
 featured: true
 
 # Links (optional)
-url_pdf: 'Truong_et_al_2025.pdf'
-url_code: ''
-url_dataset: ''
+url_pdf: '2025-12-whale-article.pdf'
+url_code: 'https://zenodo.org/records/17979619'
+url_dataset: 'https://doi.org/10.18710/Q8OSON'
 url_project: ''
 url_slides: ''
 url_video: ''
@@ -89,5 +89,3 @@ image:
   caption: ''
   focal_point: ""
   preview_only: false
-
-# Associated Projects (
