@@ -1,16 +1,16 @@
 ---
 title: "Demonstrating the potential of DAS for fish monitoring (preprint)"
-date: "2025-09-15"
+date: "2025-09-30"
 summary: "Field trial off Monaco shows distributed acoustic sensing (DAS) can detect and localize fish sounds from Ophidion rochei, Sciaena umbra and Epinephelus marginatus; preprint on HAL."
-authors:
-  - "Antoine Eceiza (GEOAZUR, CNRS)"
-  - "Anthony Sladen (GEOAZUR, CNRS)"
-  - "Olivier Brunel (Monaco Oceanographic Institute)"
-  - "Nicolas Bonnet (Monaco Environment Department)"
-  - "Vincent Gaglio (Monaco Environment Department)"
-  - "Raphaël Simonet (Monaco Environment Department)"
-  - "Frédéric Mittaine (Cosma)"
-  - "Jean-Michel Cottalorda (ECOSEAS)"
+# authors:
+#   - "Antoine Eceiza (GEOAZUR, CNRS)"
+#   - "Anthony Sladen (GEOAZUR, CNRS)"
+#   - "Olivier Brunel (Monaco Oceanographic Institute)"
+#   - "Nicolas Bonnet (Monaco Environment Department)"
+#   - "Vincent Gaglio (Monaco Environment Department)"
+#   - "Raphaël Simonet (Monaco Environment Department)"
+#   - "Frédéric Mittaine (Cosma)"
+#   - "Jean-Michel Cottalorda (ECOSEAS)"
 image:
   # To use a featured image, place an image named `featured.jpg` or `featured.png` in this folder.
   caption: "DAS for fish monitoring"
