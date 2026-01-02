@@ -76,6 +76,12 @@ social:
 - icon: orcid
   icon_pack: ai
   link: http://orcid.org/0000-0003-4126-0020 
+- icon: linkedin
+  icon_pack: fab
+  link: https://fr.linkedin.com/in/anthony-sladen-184626381
+- icon: bluesky
+  icon_pack: fab
+  link: https://bsky.app/profile/anthonysladen.bsky.social
   
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
