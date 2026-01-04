@@ -54,7 +54,7 @@ subtitle = ""
 
 ### Engineers / Junior Scientists
 *   **Antoine Eceiza** (2024-2027): DAS applications in hydroacoustics. Funded by the BPI France DEEP-C project, coordinated by the [Cosma](https://cosma.tech/) startup company.
-
+*   **Balthazar Dubois-Dognon** (2025-2026): Management of the Ligurian DAS observatory.Funded by the [MARMOR project](https://www.marmor-project.org/) and [EPOS France](https://www.epos-france.fr/).
 ---
 
 ## Alumni
