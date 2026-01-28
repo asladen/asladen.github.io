@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>PhD on Anthony Sladen&#39;s webpage</title>
+    <link>https://asladen.github.io/tags/phd/</link>
+    <description>Recent content in PhD on Anthony Sladen&#39;s webpage</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 14 Jan 2026 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="https://asladen.github.io/tags/phd/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>PhD Defense — Edhah Munaibari</title>
+      <link>https://asladen.github.io/post/2026-01-munaibari-phd-defense/</link>
+      <pubDate>Wed, 14 Jan 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://asladen.github.io/post/2026-01-munaibari-phd-defense/</guid>
+      <description>&lt;p&gt;Edhah Munaibari successfully defended his PhD on &lt;strong&gt;January 14th, 2026&lt;/strong&gt; at the &lt;strong&gt;Géoazur laboratory&lt;/strong&gt;. His thesis is titled &lt;strong&gt;“Tsunami Ionospheric Signatures Monitoring with GNSS”&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;A key motivation for this topic is that large earthquakes and tsunami waves can generate measurable disturbances in the upper atmosphere (the ionosphere). By leveraging the global GNSS receiver network, these ionospheric signatures can be monitored remotely and at large scale, offering a promising complementary observational channel for tsunami characterization and (in some contexts) warning and rapid assessment—especially when direct ocean measurements are sparse.&lt;/p&gt;
+
+&lt;p&gt;The PhD project was mainly coordinated by &lt;strong&gt;Lucie Rolland&lt;/strong&gt;, with &lt;strong&gt;Bertrand Delouis&lt;/strong&gt; and myself providing expertise on the seismology and tsunami components.&lt;/p&gt;
+
+&lt;p&gt;Edhah had to move to a full-time job early on, but he kept pushing forward during long evening and weekend sessions to further expand his work. Congratulations to him!&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;
+Tsunamis pose a profound threat to coastal communities worldwide, making the rapid and reliable detection of these waves a critical global priority for mitigating devastation and saving lives. While traditional warning systems are essential, the Earth&amp;rsquo;s ionosphere offers a promising complementary medium for basin-wide monitoring, as tsunamis generate distinctive signatures in the Total Electron Content (TEC). However, the quantitative relationship between an open-ocean tsunami and its ionospheric signature remains a key scientific challenge. Elucidating this connection is the critical next step for developing reliable, ionosphere-based hazard assessment systems. This thesis confronts this challenge by establishing and validating a complete, end-to-end analysis framework designed to systematically isolate the tsunami signature from environmental and geometric noise.&lt;/p&gt;
+
+&lt;p&gt;A cornerstone of this framework is the Single Receiver Technique (SRT), a computationally efficient method developed to standardize the detection of tsunami-induced TEC signatures. Application of the SRT to a wide range of historical events resulted in the compilation of the largest uniformly-processed global database of these phenomena to date, comprising 50 high-quality detections across 22 tsunamis. This unique dataset enabled a rigorous investigation using a workflow of physically-grounded corrections for the tsunami source, the ambient ionospheric state, and the geomagnetic coupling geometry.&lt;/p&gt;
+
+&lt;p&gt;The analysis revealed that a universal, one-to-one relationship is fundamentally obscured by the highly variable geometric and environmental conditions encountered in a global dataset. However, when the workflow was applied to a geographically consistent subset of data from Hawaii, it successfully filtered much of this variability, revealing a promising positive trend between the corrected TEC response and the tsunami amplitude.&lt;/p&gt;
+
+&lt;p&gt;The contributions of this thesis are therefore threefold: (1) a novel technique for robust and standardized signal detection; (2) a comprehensive global database to serve as a benchmark for future studies; and (3) a validated analytical framework demonstrating that the relationship between tsunami and TEC amplitudes, while not globally uniform, is achievable on a region-specific basis. These contributions provide a foundational methodology and a clear pathway for future research aimed at developing the quantitative, region-specific models essential for reliable ionospheric tsunami monitoring.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

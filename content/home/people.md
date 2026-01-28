@@ -46,7 +46,6 @@ subtitle = ""
 *   **Chu-Fang (Kim) Yang** (2025-2026): “Characterization of seafloor DAS response at low-frequency”. Funded by CNRS research project RI² [“D-LIGHT”](https://www.cnrs.fr/fr/nos-recherches/france-2030/ri2-d-light). Co-supervised with [Aurelien Ponte](https://annuaire.ifremer.fr/cv/17682/en/), [Frédéric Bouchette](https://www.bouchette.org)
 
 ### PhD Students
-*   **Edhah Munaibari** (2020-): "Modeling and inversion of tsunamis from GNSS ionospheric data". Funded by [CNES](cnes.fr). Now engineer in the private sector. Defense scheduled end 2025
 *   **Vanessa Carrillo-Barra** (2023-): “Application of optical fiber to geophysical measurements”. Funded by [CEA](https://cea.fr/).
 *   **Amine Mohammedi** (2024-): “DAS, a new frontier for continuous and real-time monitoring of the oceans”. Funded by the [“Ocean and climate” PPR program](https://www.ocean-climat.fr/). Co-supervised with [Aurelien Ponte](https://annuaire.ifremer.fr/cv/17682/en/) and [Frédéric Bouchette](https://www.bouchette.org)
 *   **Lihué Gaffoglio** (2024-): “Sub-surface imaging of the ocean floor by DAS”. Within the [SEASOUNDS project](https://seasounds-dn.cnrs.fr/).
@@ -75,6 +74,7 @@ subtitle = ""
 *   **Florian Zedek** (2019-2024): "Localization of seismic deformation by multi-GNSS ionospheric sounding". Funded by CNES and [ANR ITEC](https://anr.fr/en/funded-projects-and-impact/funded-projects/project/funded/project/b2d9d3668f92a3b9fbbf7866072501ef-64f5166b39/?tx_anrprojects_funded%5Bcontroller%5D=Funded&cHash=373a30a74a6c07beb7ebc5b3154b4dab). Now Engineer in the industry.
 *   **Carlos Becerril** (2020-2024): “Seafloor DAS data for tsunami detection”. Co-supervision with Univ. of Alcala, Spain. [AGU Paros Prize 2022](https://agu.secure-platform.com/a/gallery/rounds/125/details/27224). Now engineer at ASN France.
 *   **Yacine Khacef** (2020-2024): “Distributed acoustic sensing by optical fiber for the smart city”.Funded by [3IA Côte d'Azur](https://3ia.univ-cotedazur.eu/). Now engineer in the private sector. 
+*   **Edhah Munaibari** (2020-2026): "Modeling and inversion of tsunamis from GNSS ionospheric data". Funded by [CNES](cnes.fr). Now engineer at ACRI-ST, in Sophia-Antipolis
 
 ### Past Engineers / Junior Scientists
 *   **Julian Pelaez Quinones** (2022): Setup of the Ligurian DAS observatory. Funded by the [MARMOR project](https://www.marmor-project.org/) and [EPOS France](https://www.epos-france.fr/). Now PhD student at the University of Bergen.
