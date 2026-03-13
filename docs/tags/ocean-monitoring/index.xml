@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>DAS on Anthony Sladen&#39;s webpage</title>
-    <link>https://asladen.github.io/tags/das/</link>
-    <description>Recent content in DAS on Anthony Sladen&#39;s webpage</description>
+    <title>Ocean Monitoring on Anthony Sladen&#39;s webpage</title>
+    <link>https://asladen.github.io/tags/ocean-monitoring/</link>
+    <description>Recent content in Ocean Monitoring on Anthony Sladen&#39;s webpage</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 13 Feb 2026 00:00:00 +0000</lastBuildDate>
     
-	    <atom:link href="https://asladen.github.io/tags/das/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="https://asladen.github.io/tags/ocean-monitoring/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -102,66 +102,6 @@
 &lt;h2 id=&#34;meet-us-at-osm26&#34;&gt;Meet Us at OSM26&lt;/h2&gt;
 
 &lt;p&gt;If you are attending OSM26 in Glasgow, we would be glad to connect and discuss collaborations on DAS, ocean monitoring, marine biodiversity, and geodynamics.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Automated Detection of Fin Whales with Distributed Acoustic Sensing in the Arctic and Mediterranean</title>
-      <link>https://asladen.github.io/publication/journal-article/truong-2025-fin-whales/</link>
-      <pubDate>Mon, 29 Dec 2025 00:00:00 +0000</pubDate>
-      
-      <guid>https://asladen.github.io/publication/journal-article/truong-2025-fin-whales/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Automated detection of fin whales with distributed acoustic sensing in the Arctic and Mediterranean</title>
-      <link>https://asladen.github.io/post/2025-12-whale-monitoring/</link>
-      <pubDate>Mon, 29 Dec 2025 00:00:00 +0000</pubDate>
-      
-      <guid>https://asladen.github.io/post/2025-12-whale-monitoring/</guid>
-      <description>
-
-&lt;p&gt;The Acoustical Society of America (ASA) has published our article, &amp;ldquo;Automated Detection of Fin Whales with Distributed Acoustic Sensing in the Arctic and Mediterranean,&amp;rdquo; in &lt;em&gt;The Journal of the Acoustical Society of America&lt;/em&gt; (Vol.158, Issue 6). This work illustrate some of the collaborative work between NTNU and Géoazur.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Update:&lt;/strong&gt; Our paper was selected for a &lt;a href=&#34;https://doi.org/10.1063/10.0042177&#34; target=&#34;_blank&#34;&gt;Scilight distinction&lt;/a&gt; by the journal editors, highlighting interesting research in the physical sciences!&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;The fin whale is a key species in marine ecosystems and a sensitive indicator of ocean health. Yet monitoring its low-frequency calls at scale remains challenging. Distributed acoustic sensing (DAS) on subsea fiber cables can record thousands of calls daily, but these are hidden in terabytes of data, demanding automated detection.&lt;/p&gt;
-
-&lt;p&gt;This study presents a three-stage pipeline:
-1. Data enhancement using frequency-wavenumber and root-mean-square filtering.
-2. Call detection in the time-space domain using four approaches: line-based detection (Hough transform, HT), density-based clustering (DBSCAN), template matching combined with clustering &amp;trade;, and a deep-learning-based detector (YOLO).
-3. Detection refinement using hyperbola fitting and a LightGBM classifier.&lt;/p&gt;
-
-&lt;p&gt;The pipeline is evaluated on datasets from two submarine cables: 135 km in Svalbard, Norway, and 162 km between Monaco and Italy. YOLO achieves the highest F1 score (0.89) on the Svalbard dataset, outperforming HT (0.57), DBSCAN (0.43), and TM (0.71). Without fine-tuning, YOLO also achieves a high F1 score (0.80) on the Monaco–Italy dataset, demonstrating the ability to generalize across geographic locations and seafloor environments. These results highlight DAS combined with deep learning as a powerful tool for scalable, real-time monitoring of marine mammal vocalizations.&lt;/p&gt;
-
-&lt;h3 id=&#34;resources&#34;&gt;Resources&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://doi.org/10.1121/10.0041855&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;Read the full article (DOI)&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;Truong_et_al_2025_Automated_detection_of_fin_whales_with_distributed_acoustic_sensing_in_the_Arctic_and_Mediterranean.pdf&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;Download Article PDF&lt;/strong&gt;&lt;/a&gt; **&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;Scilight_2025.pdf&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;Download Scilight PDF&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;hr /&gt;
-
-&lt;ul&gt;
-&lt;li&gt;**This article may be downloaded for personal use only. Any other use requires prior permission of the author and the Acoustical Society of America.&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>DAS Sensitivity to Heterogeneity Scales Much Smaller than the Minimum Wavelength</title>
-      <link>https://asladen.github.io/publication/journal-article/capdeville-2024-sensitivity/</link>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://asladen.github.io/publication/journal-article/capdeville-2024-sensitivity/</guid>
-      <description>&lt;p&gt;This paper delves into the unique characteristics of Distributed Acoustic Sensing (DAS) measurements, particularly their interaction with subsurface heterogeneities that are much smaller than the seismic wavelength. We demonstrate through numerical modeling and theoretical analysis that DAS, which measures strain, exhibits a significantly higher sensitivity to these small-scale features compared to traditional particle velocity measurements.&lt;/p&gt;
-
-&lt;p&gt;This enhanced sensitivity arises from the coupling of strain components to the DAS measurement. Understanding this phenomenon is crucial for both interpreting DAS data accurately and for leveraging this unique sensitivity for new applications in seismology and subsurface imaging.&lt;/p&gt;
 </description>
     </item>
     
