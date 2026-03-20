@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tsunami on Anthony Sladen&#39;s webpage</title>
+    <title>tsunami on Anthony Sladen&#39;s webpage</title>
     <link>https://asladen.github.io/tags/tsunami/</link>
-    <description>Recent content in Tsunami on Anthony Sladen&#39;s webpage</description>
+    <description>Recent content in tsunami on Anthony Sladen&#39;s webpage</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 14 Jan 2026 00:00:00 +0000</lastBuildDate>
@@ -33,6 +33,20 @@ Tsunamis pose a profound threat to coastal communities worldwide, making the rap
 &lt;p&gt;The analysis revealed that a universal, one-to-one relationship is fundamentally obscured by the highly variable geometric and environmental conditions encountered in a global dataset. However, when the workflow was applied to a geographically consistent subset of data from Hawaii, it successfully filtered much of this variability, revealing a promising positive trend between the corrected TEC response and the tsunami amplitude.&lt;/p&gt;
 
 &lt;p&gt;The contributions of this thesis are therefore threefold: (1) a novel technique for robust and standardized signal detection; (2) a comprehensive global database to serve as a benchmark for future studies; and (3) a validated analytical framework demonstrating that the relationship between tsunami and TEC amplitudes, while not globally uniform, is achievable on a region-specific basis. These contributions provide a foundational methodology and a clear pathway for future research aimed at developing the quantitative, region-specific models essential for reliable ionospheric tsunami monitoring.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Towards Tsunami Early-Warning with Distributed Acoustic Sensing: Expected Seafloor Strains Induced by Tsunamis</title>
+      <link>https://asladen.github.io/publication/journal-article/becerril-2026-towards/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://asladen.github.io/publication/journal-article/becerril-2026-towards/</guid>
+      <description>&lt;p&gt;This paper is now out in its peer-reviewed journal version in &lt;em&gt;Pure and Applied Geophysics&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;It reflects a long collaborative effort with colleagues from France, Spain and the USA, covering the problem from theoretical equations and DAS detection levels to numerical simulations of tsunami-induced seafloor strain.&lt;/p&gt;
+
+&lt;p&gt;The main conclusion is encouraging: Distributed Acoustic Sensing on existing seafloor telecom cables appears to be a viable, low-cost path toward tsunami early warning, including in the near field where every minute matters.&lt;/p&gt;
 </description>
     </item>
     

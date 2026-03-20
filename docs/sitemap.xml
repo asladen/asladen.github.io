@@ -96,19 +96,89 @@
   
   <url>
     <loc>https://asladen.github.io/publication_types/2/</loc>
-    <lastmod>2025-12-29T00:00:00+00:00</lastmod>
+    <lastmod>2026-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://asladen.github.io/authors/alice-agnes-gabriel/</loc>
+    <lastmod>2026-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://asladen.github.io/authors/anthony-sladen/</loc>
-    <lastmod>2025-12-29T00:00:00+00:00</lastmod>
+    <lastmod>2026-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://asladen.github.io/authors/</loc>
-    <lastmod>2025-12-29T00:00:00+00:00</lastmod>
+    <lastmod>2026-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://asladen.github.io/authors/carlos-becerril/</loc>
+    <lastmod>2026-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://asladen.github.io/authors/fabian-kutschera/</loc>
+    <lastmod>2026-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://asladen.github.io/authors/frederic-bouchette/</loc>
+    <lastmod>2026-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://asladen.github.io/authors/jean-paul-ampuero/</loc>
+    <lastmod>2026-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://asladen.github.io/authors/miguel-gonzalez-herraez/</loc>
+    <lastmod>2026-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://asladen.github.io/authors/pedro-j-vidal-moreno/</loc>
+    <lastmod>2026-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://asladen.github.io/publication_types/</loc>
+    <lastmod>2026-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://asladen.github.io/publication/</loc>
+    <lastmod>2026-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://asladen.github.io/publication/journal-article/becerril-2026-towards/</loc>
+    <lastmod>2026-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://asladen.github.io/tags/early-warning/</loc>
+    <lastmod>2026-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://asladen.github.io/tags/fiber/</loc>
+    <lastmod>2026-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -156,17 +226,6 @@
     <loc>https://asladen.github.io/authors/laurine-andres/</loc>
     <lastmod>2025-12-29T00:00:00+00:00</lastmod>
     <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://asladen.github.io/publication_types/</loc>
-    <lastmod>2025-12-29T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://asladen.github.io/publication/</loc>
-    <lastmod>2025-12-29T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -314,12 +373,6 @@
   </url>
   
   <url>
-    <loc>https://asladen.github.io/authors/jean-paul-ampuero/</loc>
-    <lastmod>2025-08-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://asladen.github.io/authors/julia-schmale/</loc>
     <lastmod>2025-08-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -345,12 +398,6 @@
   
   <url>
     <loc>https://asladen.github.io/authors/selina-wetter/</loc>
-    <lastmod>2025-08-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://asladen.github.io/tags/fiber/</loc>
     <lastmod>2025-08-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -433,12 +480,6 @@
   </url>
   
   <url>
-    <loc>https://asladen.github.io/authors/frederic-bouchette/</loc>
-    <lastmod>2024-11-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://asladen.github.io/authors/itzhak-lior/</loc>
     <lastmod>2024-11-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -514,12 +555,6 @@
   </url>
   
   <url>
-    <loc>https://asladen.github.io/authors/alice-agnes-gabriel/</loc>
-    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://asladen.github.io/authors/andre-ferrari/</loc>
     <lastmod>2024-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -527,12 +562,6 @@
   
   <url>
     <loc>https://asladen.github.io/authors/bertrand-delouis/</loc>
-    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://asladen.github.io/authors/carlos-becerril/</loc>
     <lastmod>2024-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -563,12 +592,6 @@
   <url>
     <loc>https://asladen.github.io/publication/journal-article/van-2024-distributed/</loc>
     <lastmod>2024-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://asladen.github.io/authors/fabian-kutschera/</loc>
-    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -637,12 +660,6 @@
   </url>
   
   <url>
-    <loc>https://asladen.github.io/authors/miguel-gonzalez-herraez/</loc>
-    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://asladen.github.io/publication/journal-article/brenne-2024-non/</loc>
     <lastmod>2024-01-01T00:00:00+00:00</lastmod>
   </url>
@@ -655,12 +672,6 @@
   
   <url>
     <loc>https://asladen.github.io/authors/pascal-pecci/</loc>
-    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://asladen.github.io/authors/pedro-j-vidal-moreno/</loc>
     <lastmod>2024-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>

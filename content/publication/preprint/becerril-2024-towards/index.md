@@ -56,13 +56,13 @@ url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
-url_source: ''
+url_source: 'https://link.springer.com/article/10.1007/s00024-026-03940-1'
 url_video: ''
 
 # Custom links (uncomment lines below)
-# links:
-# - name: Custom Link
-#   url: http://example.org
+links:
+- name: Reviewed article
+  url: https://link.springer.com/article/10.1007/s00024-026-03940-1
 
 # Publication image
 # Add an image named `featured.jpg/png` to your page's folder then add a caption below.
@@ -80,9 +80,11 @@ projects:
 - fiber
 ---
 
+This preprint has now been published in peer-reviewed form as *Towards Tsunami Early-Warning with Distributed Acoustic Sensing: Expected Seafloor Strains Induced by Tsunamis*, in *Pure and Applied Geophysics* (2026).
+
+See the reviewed article here: https://doi.org/10.1007/s00024-026-03940-1
+
 This research explores the potential of using seafloor fiber optic cables with Distributed Acoustic Sensing (DAS) for tsunami early warning. We developed numerical models to simulate the strain that a tsunami wave would induce on a seafloor cable.
 
 Our findings show that DAS is sensitive enough to detect these small deformations, providing a potential new method for real-time tsunami detection far from shore, which could significantly improve warning times.
 
-To add an image here, place a file like `tsunami-simulation.png` in this folder and use the following Markdown:
-`!Simulation of tsunami-induced strain on a seafloor cable`

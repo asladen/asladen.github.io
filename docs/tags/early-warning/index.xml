@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>early warning on Anthony Sladen&#39;s webpage</title>
+    <link>https://asladen.github.io/tags/early-warning/</link>
+    <description>Recent content in early warning on Anthony Sladen&#39;s webpage</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 01 Jan 2026 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="https://asladen.github.io/tags/early-warning/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Towards Tsunami Early-Warning with Distributed Acoustic Sensing: Expected Seafloor Strains Induced by Tsunamis</title>
+      <link>https://asladen.github.io/publication/journal-article/becerril-2026-towards/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://asladen.github.io/publication/journal-article/becerril-2026-towards/</guid>
+      <description>&lt;p&gt;This paper is now out in its peer-reviewed journal version in &lt;em&gt;Pure and Applied Geophysics&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;It reflects a long collaborative effort with colleagues from France, Spain and the USA, covering the problem from theoretical equations and DAS detection levels to numerical simulations of tsunami-induced seafloor strain.&lt;/p&gt;
+
+&lt;p&gt;The main conclusion is encouraging: Distributed Acoustic Sensing on existing seafloor telecom cables appears to be a viable, low-cost path toward tsunami early warning, including in the near field where every minute matters.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

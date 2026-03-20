@@ -6,10 +6,24 @@
     <description>Recent content in Pedro J Vidal-Moreno on Anthony Sladen&#39;s webpage</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Jan 2026 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://asladen.github.io/authors/pedro-j-vidal-moreno/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Towards Tsunami Early-Warning with Distributed Acoustic Sensing: Expected Seafloor Strains Induced by Tsunamis</title>
+      <link>https://asladen.github.io/publication/journal-article/becerril-2026-towards/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://asladen.github.io/publication/journal-article/becerril-2026-towards/</guid>
+      <description>&lt;p&gt;This paper is now out in its peer-reviewed journal version in &lt;em&gt;Pure and Applied Geophysics&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;It reflects a long collaborative effort with colleagues from France, Spain and the USA, covering the problem from theoretical equations and DAS detection levels to numerical simulations of tsunami-induced seafloor strain.&lt;/p&gt;
+
+&lt;p&gt;The main conclusion is encouraging: Distributed Acoustic Sensing on existing seafloor telecom cables appears to be a viable, low-cost path toward tsunami early warning, including in the near field where every minute matters.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Towards Tsunami Early-Warning with Distributed Acoustic Sensing: Expected Seafloor Strains Induced by Tsunamis</title>
@@ -17,12 +31,13 @@
       <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
       
       <guid>https://asladen.github.io/publication/preprint/becerril-2024-towards/</guid>
-      <description>&lt;p&gt;This research explores the potential of using seafloor fiber optic cables with Distributed Acoustic Sensing (DAS) for tsunami early warning. We developed numerical models to simulate the strain that a tsunami wave would induce on a seafloor cable.&lt;/p&gt;
+      <description>&lt;p&gt;This preprint has now been published in peer-reviewed form as &lt;em&gt;Towards Tsunami Early-Warning with Distributed Acoustic Sensing: Expected Seafloor Strains Induced by Tsunamis&lt;/em&gt;, in &lt;em&gt;Pure and Applied Geophysics&lt;/em&gt; (2026).&lt;/p&gt;
+
+&lt;p&gt;See the reviewed article here: &lt;a href=&#34;https://doi.org/10.1007/s00024-026-03940-1&#34; target=&#34;_blank&#34;&gt;https://doi.org/10.1007/s00024-026-03940-1&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;This research explores the potential of using seafloor fiber optic cables with Distributed Acoustic Sensing (DAS) for tsunami early warning. We developed numerical models to simulate the strain that a tsunami wave would induce on a seafloor cable.&lt;/p&gt;
 
 &lt;p&gt;Our findings show that DAS is sensitive enough to detect these small deformations, providing a potential new method for real-time tsunami detection far from shore, which could significantly improve warning times.&lt;/p&gt;
-
-&lt;p&gt;To add an image here, place a file like &lt;code&gt;tsunami-simulation.png&lt;/code&gt; in this folder and use the following Markdown:
-&lt;code&gt;!Simulation of tsunami-induced strain on a seafloor cable&lt;/code&gt;&lt;/p&gt;
 </description>
     </item>
     
