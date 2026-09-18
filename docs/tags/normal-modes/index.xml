@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Normal Modes on Anthony Sladen&#39;s webpage</title>
+    <link>https://asladen.github.io/tags/normal-modes/</link>
+    <description>Recent content in Normal Modes on Anthony Sladen&#39;s webpage</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 01 Jul 2026 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="https://asladen.github.io/tags/normal-modes/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Earth&#39;s free oscillations recorded with submarine DAS... and DAS is pushed into the millihertz band</title>
+      <link>https://asladen.github.io/post/2026-07-normal-modes-das/</link>
+      <pubDate>Wed, 01 Jul 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://asladen.github.io/post/2026-07-normal-modes-das/</guid>
+      <description>
+
+&lt;p&gt;Our paper &lt;strong&gt;&amp;ldquo;Characterizing the Modes of Earth&amp;rsquo;s Free Oscillations via Submarine Distributed Acoustic Sensing (DAS)&amp;rdquo;&lt;/strong&gt;, led by Balthazar Dubois-Dognon with Chu-Fang Yang, is published in &lt;em&gt;The Seismic Record&lt;/em&gt; (Vol. 6, Issue 3, 358–367).&lt;/p&gt;
+
+&lt;h2 id=&#34;making-das-work-where-it-was-thought-not-to&#34;&gt;Making DAS work where it was thought not to&lt;/h2&gt;
+
+&lt;p&gt;Distributed Acoustic Sensing is generally considered unusable at very low frequency: below about 10 mHz, the instrumental noise of the interrogator rises steeply as 1/f, and long-period signals disappear into it. An important point of this work is that &lt;strong&gt;this is a noise problem, not a sensitivity problem&lt;/strong&gt;. The fiber is not intrinsically deaf at long periods but the elevated noise floor prevents reaching the sensitivity DAS normally achieves around 0.1 s.&lt;/p&gt;
+
+&lt;p&gt;The dominant contribution is the so-called &lt;em&gt;common-mode&lt;/em&gt; noise: laser phase noise generated close to the interrogator, which affects all channels simultaneously. Because it is common to the whole cable, it can be estimated from channels where the signal of interest is weakest, and subtracted. With this processing, signals that are formally below the raw noise floor become clearly observable, and the millihertz band, considered out of reach in most DAS applications, becomes usable.&lt;/p&gt;
+
+&lt;h2 id=&#34;earth-s-normal-modes-on-a-seafloor-telecom-cable&#34;&gt;Earth&amp;rsquo;s normal modes on a seafloor telecom cable&lt;/h2&gt;
+
+&lt;p&gt;We applied this to one of the most fundamental signals in low-frequency seismology: the free oscillations of the Earth, the discrete normal modes that ring the whole planet after a great earthquake, and whose frequencies and attenuation carry information on deep Earth structure.&lt;/p&gt;
+
+
+
+
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;all_modes_panel.gif&#34; alt=&#34;A few of the Earth&amp;#39;s normal modes and their periods: the radial breathing mode ₀S₀, the &amp;#39;football&amp;#39; mode ₀S₂, higher-degree spheroidal modes, the toroidal mode ₀T₂ whose hemispheres counter-rotate, and the ₂S₂ overtone. Red is expansion, blue compression.&#34; &gt;
+
+
+
+&lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; &gt;
+  
+  &lt;p&gt;
+    A few of the Earth&amp;rsquo;s normal modes and their periods: the radial breathing mode ₀S₀, the &amp;lsquo;football&amp;rsquo; mode ₀S₂, higher-degree spheroidal modes, the toroidal mode ₀T₂ whose hemispheres counter-rotate, and the ₂S₂ overtone. Red is expansion, blue compression.
+    
+    
+    
+  &lt;/p&gt; 
+&lt;/figcaption&gt;
+
+&lt;/figure&gt;
+
+
+&lt;p&gt;Using the 160 km telecom cable between Monaco and Italy in the Ligurian Sea, and following the &lt;strong&gt;2025 M&lt;sub&gt;w&lt;/sub&gt; 8.8 Kamchatka earthquake&lt;/strong&gt;, we observe spectral peaks consistent with normal modes over the first ~120 km of cable. Their amplitude varies systematically with cable azimuth, in agreement with predictions from a normal-mode summation model. The measured strain rate matches the prediction up to a single multiplicative factor (C ≈ 0.13) that is the same for every event analysed: it&amp;rsquo;s the signature of a flat, instrument-like transfer loss rather than an unmodelled geophysical effect. That&amp;rsquo;s good news for future studies: all you need is a large event to evaluate the transfert function of your cable at these frequencies.&lt;/p&gt;
+
+
+
+
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;fig5a_mode_spectra.png&#34; alt=&#34;Normal-mode spectra recorded along the Monaco–Italy cable after the M&amp;lt;sub&amp;gt;w&amp;lt;/sub&amp;gt; 8.8 Kamchatka earthquake, ordered by cable orientation from radial (blue) to transverse (red). From Dubois-Dognon et al. (2026), CC BY.&#34; &gt;
+
+
+
+&lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; &gt;
+  
+  &lt;p&gt;
+    Normal-mode spectra recorded along the Monaco–Italy cable after the M&lt;sub&gt;w&lt;/sub&gt; 8.8 Kamchatka earthquake, ordered by cable orientation from radial (blue) to transverse (red). From Dubois-Dognon et al. (2026), CC BY.
+    
+    
+    
+  &lt;/p&gt; 
+&lt;/figcaption&gt;
+
+&lt;/figure&gt;
+
+
+&lt;p&gt;Some further results:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Normal modes are also detected for &lt;strong&gt;smaller earthquakes, down to M&lt;sub&gt;w&lt;/sub&gt; 7.7&lt;/strong&gt; (an M&lt;sub&gt;w&lt;/sub&gt; 7.9 Kamchatka aftershock and the M&lt;sub&gt;w&lt;/sub&gt; 7.7 Drake Passage event). Lower magnitudes should be within reach with better characterisation of the common-mode noise.&lt;/li&gt;
+&lt;li&gt;Because its azimuth varies along its length, the cable behaves as a &lt;strong&gt;two-component horizontal strain meter&lt;/strong&gt;, separating radial (spheroidal) from transverse (toroidal) motion. Submarine detections of normal modes have so far relied almost exclusively on the vertical component of ocean-bottom seismometers, so resolving the horizontal, and the Coriolis-coupled toroidal modes this way had, to our knowledge, not been demonstrated before.&lt;/li&gt;
+&lt;li&gt;Eigenfrequencies and attenuation estimated from the ~6000 channels agree well with &lt;strong&gt;PREM&lt;/strong&gt; (e.g. Q = 249 vs 250 for ₀S₁₉, 226 vs 212 for ₀S₂₄), with a scatter of about 20% comparable to global attenuation studies based on far larger datasets&amp;hellip; but here it is obtained from a single event on a single cable.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;why-it-matters&#34;&gt;Why it matters&lt;/h2&gt;
+
+&lt;p&gt;Beyond the modes themselves, the message is that the low-frequency regime is open to DAS provided the instrumental noise is handled properly. This adds long-period and low-frequency seismology to the list of applications of submarine fiber-optic sensing, alongside tsunami early warning, slow deformation and geodesy, in exactly the regions where conventional seismic instrumentation is costly, sparse, and temporary. It also strengthens the case for DAS deployments in other hard-to-instrument settings, including extraterrestrial ones.&lt;/p&gt;
+
+&lt;h3 id=&#34;resources&#34;&gt;Resources&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://doi.org/10.1785/0320260014&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;Read the full article (DOI)&lt;/strong&gt;&lt;/a&gt; — open access (CC BY)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;dubois-dognon-2026-tsr.pdf&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;Download article PDF&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://doi.org/10.5281/zenodo.19349504&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;Data and figure-reproduction code (Zenodo)&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Processing was performed with the &lt;a href=&#34;https://xdas-dev.github.io/xdas/&#34; target=&#34;_blank&#34;&gt;Xdas&lt;/a&gt; Python library. 😉&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
